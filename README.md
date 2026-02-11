@@ -190,7 +190,7 @@ Moodyfood/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/moodyfood.git
+git clone https://github.com/moizmakadq/moodyfood.git
 cd moodyfood
 ```
 
@@ -575,7 +575,7 @@ We welcome contributions! Here's how you can help:
 ### Development Setup
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/moodyfood.git
+git clone https://github.com/moizmakadq/moodyfood.git
 
 # Add upstream remote
 git remote add upstream https://github.com/originalauthor/moodyfood.git
@@ -647,15 +647,11 @@ SOFTWARE.
 ## 📞 Contact & Support
 
 ### Get Help
-- **Documentation**: [Wiki](https://github.com/yourusername/moodyfood/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/moodyfood/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/moodyfood/discussions)
+- **Issues**: [GitHub Issues](https://github.com/moizmakadq/moodyfood/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/moizmakadq/moodyfood/discussions)
 
 ### Connect
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-
+- **LinkedIn**: [Your Profile](https://linkedin.com/in/moiz-makada)
 ---
 
 ## 📊 Project Statistics
@@ -676,7 +672,7 @@ SOFTWARE.
 
 If you find this project useful, please consider giving it a ⭐ on GitHub!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/moodyfood&type=Date)](https://star-history.com/#yourusername/moodyfood&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=moizmakadq/moodyfood&type=Date)](https://star-history.com/#moizmakadq/moodyfood&Date)
 
 ---
 
