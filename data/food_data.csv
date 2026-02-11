@@ -1,0 +1,1011 @@
+User_ID,Age_Group,Gender,Mood,Recommended_Food_Item,Veg_or_NonVeg,Food_Category,Cuisine_Type,Reason_for_Recommendation
+1,Boomer,Male,Happy,Idli with Sambar,Veg,Healthy Meal,South Indian,Idli with Sambar is recommended because it aligns with the comfort-seeking mood.
+2,Gen Z,Female,Surprise,Pav Bhaji,Veg,Street Food,Maharashtrian,Pav Bhaji is recommended because it aligns with the energetic mood.
+3,Gen Z,Male,Angry,Pav Bhaji,Veg,Street Food,Maharashtrian,Pav Bhaji is recommended because it aligns with the angry mood.
+4,Boomer,Male,Neutral,Rasam Rice,Veg,Comfort Food,South Indian,Rasam Rice is recommended because it aligns with the relaxed mood.
+5,Millennial,Female,Happy,Paneer Tikka,Veg,Festive Food,Punjabi,Paneer Tikka is recommended because it aligns with the happy mood.
+6,Millennial,Male,Surprise,Biryani (Chicken),Non-Veg,Comfort Food,Hyderabadi,Biryani (Chicken) is recommended because it aligns with the energetic mood.
+7,Boomer,Male,Happy,Gulab Jamun,Veg,Dessert,North Indian,Gulab Jamun is recommended because it aligns with the comfort-seeking mood.
+8,Boomer,Male,Happy + Surprise,Pav Bhaji,Veg,Street Food,Maharashtrian,Pav Bhaji is recommended because it aligns with the romantic mood.
+9,Gen Z,Female,Neutral,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the relaxed mood.
+10,Gen X,Male,Angry,Rasam Rice,Veg,Comfort Food,South Indian,Rasam Rice is recommended because it aligns with the angry mood.
+11,Gen Z,Male,Happy + Surprise,Biryani (Chicken),Non-Veg,Comfort Food,Hyderabadi,Biryani (Chicken) is recommended because it aligns with the romantic mood.
+12,Millennial,Female,Sad,Lassi,Veg,Beverage,Punjabi,Lassi is recommended because it aligns with the homesick mood.
+13,Gen Z,Female,Sad,Butter Chicken,Non-Veg,Comfort Food,Punjabi,Butter Chicken is recommended because it aligns with the sad mood.
+14,Gen X,Female,Sad,Chai and Pakora,Veg,Comfort Food,North Indian,Chai and Pakora is recommended because it aligns with the homesick mood.
+15,Gen X,Male,Happy + Surprise,Butter Chicken,Non-Veg,Comfort Food,Punjabi,Butter Chicken is recommended because it aligns with the romantic mood.
+16,Boomer,Male,Happy,Vada Pav,Veg,Street Food,Maharashtrian,Vada Pav is recommended because it aligns with the happy mood.
+17,Gen Z,Male,Happy,Rasam Rice,Veg,Comfort Food,South Indian,Rasam Rice is recommended because it aligns with the comfort-seeking mood.
+18,Gen X,Male,Disgust,Paneer Tikka,Veg,Festive Food,Punjabi,Paneer Tikka is recommended because it aligns with the bored mood.
+19,Boomer,Male,Happy,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the comfort-seeking mood.
+20,Gen Z,Male,Happy + Surprise,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the romantic mood.
+21,Gen Z,Male,Sad,Paneer Tikka,Veg,Festive Food,Punjabi,Paneer Tikka is recommended because it aligns with the sad mood.
+22,Boomer,Male,Fear,Dal Chawal,Veg,Homemade Meal,All India,Dal Chawal is recommended because it aligns with the stressed mood.
+23,Gen Z,Male,Happy + Surprise,Biryani (Chicken),Non-Veg,Comfort Food,Hyderabadi,Biryani (Chicken) is recommended because it aligns with the romantic mood.
+24,Gen Z,Male,Sad,Lassi,Veg,Beverage,Punjabi,Lassi is recommended because it aligns with the homesick mood.
+25,Millennial,Male,Happy,Fish Curry Rice,Non-Veg,Homemade Meal,Coastal,Fish Curry Rice is recommended because it aligns with the happy mood.
+26,Millennial,Male,Angry,Jalebi,Veg,Dessert,North Indian,Jalebi is recommended because it aligns with the angry mood.
+27,Boomer,Male,Happy,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the comfort-seeking mood.
+28,Boomer,Male,Disgust,Rasam Rice,Veg,Comfort Food,South Indian,Rasam Rice is recommended because it aligns with the bored mood.
+29,Gen X,Male,Fear,Lassi,Veg,Beverage,Punjabi,Lassi is recommended because it aligns with the stressed mood.
+30,Gen X,Male,Happy + Surprise,Biryani (Veg),Veg,Comfort Food,Hyderabadi,Biryani (Veg) is recommended because it aligns with the romantic mood.
+31,Gen X,Male,Happy,Butter Chicken,Non-Veg,Comfort Food,Punjabi,Butter Chicken is recommended because it aligns with the happy mood.
+32,Gen X,Male,Surprise,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the energetic mood.
+33,Gen Z,Male,Happy,Rasam Rice,Veg,Comfort Food,South Indian,Rasam Rice is recommended because it aligns with the comfort-seeking mood.
+34,Boomer,Male,Happy,Chicken Soup,Non-Veg,Healthy Meal,All India,Chicken Soup is recommended because it aligns with the happy mood.
+35,Gen X,Female,Disgust,Paneer Tikka,Veg,Festive Food,Punjabi,Paneer Tikka is recommended because it aligns with the bored mood.
+36,Gen Z,Male,Neutral,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the relaxed mood.
+37,Boomer,Male,Sad,Rajma Chawal,Veg,Homemade Meal,North Indian,Rajma Chawal is recommended because it aligns with the homesick mood.
+38,Gen X,Female,Happy,Biryani (Chicken),Non-Veg,Comfort Food,Hyderabadi,Biryani (Chicken) is recommended because it aligns with the comfort-seeking mood.
+39,Gen X,Female,Sad,Lassi,Veg,Beverage,Punjabi,Lassi is recommended because it aligns with the sad mood.
+40,Boomer,Female,Happy,Dal Chawal,Veg,Homemade Meal,All India,Dal Chawal is recommended because it aligns with the happy mood.
+41,Boomer,Female,Angry,Pav Bhaji,Veg,Street Food,Maharashtrian,Pav Bhaji is recommended because it aligns with the angry mood.
+42,Boomer,Female,Angry,Dal Chawal,Veg,Homemade Meal,All India,Dal Chawal is recommended because it aligns with the angry mood.
+43,Boomer,Female,Disgust,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the bored mood.
+44,Gen X,Male,Disgust,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the bored mood.
+45,Gen Z,Female,Sad,Lassi,Veg,Beverage,Punjabi,Lassi is recommended because it aligns with the sad mood.
+46,Gen X,Male,Disgust,Lassi,Veg,Beverage,Punjabi,Lassi is recommended because it aligns with the bored mood.
+47,Gen Z,Male,Sad,Biryani (Veg),Veg,Comfort Food,Hyderabadi,Biryani (Veg) is recommended because it aligns with the sad mood.
+48,Boomer,Female,Fear,Fish Curry Rice,Non-Veg,Homemade Meal,Coastal,Fish Curry Rice is recommended because it aligns with the stressed mood.
+49,Millennial,Male,Fear,Vada Pav,Veg,Street Food,Maharashtrian,Vada Pav is recommended because it aligns with the stressed mood.
+50,Gen Z,Male,Sad,Filter Coffee,Veg,Beverage,South Indian,Filter Coffee is recommended because it aligns with the sad mood.
+51,Gen X,Male,Sad,Paneer Tikka,Veg,Festive Food,Punjabi,Paneer Tikka is recommended because it aligns with the homesick mood.
+52,Millennial,Female,Sad,Pani Puri,Veg,Street Food,North Indian,Pani Puri is recommended because it aligns with the sad mood.
+53,Gen X,Male,Disgust,Paneer Tikka,Veg,Festive Food,Punjabi,Paneer Tikka is recommended because it aligns with the bored mood.
+54,Boomer,Female,Fear,Pani Puri,Veg,Street Food,North Indian,Pani Puri is recommended because it aligns with the stressed mood.
+55,Gen X,Male,Sad,Chai and Pakora,Veg,Comfort Food,North Indian,Chai and Pakora is recommended because it aligns with the sad mood.
+56,Millennial,Male,Happy,Samosa,Veg,Snack,North Indian,Samosa is recommended because it aligns with the happy mood.
+57,Gen Z,Male,Angry,Idli with Sambar,Veg,Healthy Meal,South Indian,Idli with Sambar is recommended because it aligns with the angry mood.
+58,Gen Z,Male,Disgust,Gulab Jamun,Veg,Dessert,North Indian,Gulab Jamun is recommended because it aligns with the bored mood.
+59,Gen X,Male,Sad,Dal Chawal,Veg,Homemade Meal,All India,Dal Chawal is recommended because it aligns with the sad mood.
+60,Millennial,Male,Happy + Surprise,Rajma Chawal,Veg,Homemade Meal,North Indian,Rajma Chawal is recommended because it aligns with the romantic mood.
+61,Millennial,Female,Sad,Paneer Tikka,Veg,Festive Food,Punjabi,Paneer Tikka is recommended because it aligns with the sad mood.
+62,Millennial,Male,Fear,Rajma Chawal,Veg,Homemade Meal,North Indian,Rajma Chawal is recommended because it aligns with the stressed mood.
+63,Boomer,Male,Neutral,Lassi,Veg,Beverage,Punjabi,Lassi is recommended because it aligns with the relaxed mood.
+64,Gen Z,Male,Neutral,Fish Curry Rice,Non-Veg,Homemade Meal,Coastal,Fish Curry Rice is recommended because it aligns with the relaxed mood.
+65,Gen Z,Female,Sad,Butter Chicken,Non-Veg,Comfort Food,Punjabi,Butter Chicken is recommended because it aligns with the sad mood.
+66,Gen X,Male,Neutral,Chai and Pakora,Veg,Comfort Food,North Indian,Chai and Pakora is recommended because it aligns with the relaxed mood.
+67,Gen X,Male,Sad,Butter Chicken,Non-Veg,Comfort Food,Punjabi,Butter Chicken is recommended because it aligns with the sad mood.
+68,Gen X,Male,Happy,Fish Curry Rice,Non-Veg,Homemade Meal,Coastal,Fish Curry Rice is recommended because it aligns with the comfort-seeking mood.
+69,Gen X,Male,Angry,Jalebi,Veg,Dessert,North Indian,Jalebi is recommended because it aligns with the angry mood.
+70,Gen X,Male,Angry,Khichdi,Veg,Comfort Food,All India,Khichdi is recommended because it aligns with the angry mood.
+71,Gen X,Male,Fear,Pani Puri,Veg,Street Food,North Indian,Pani Puri is recommended because it aligns with the stressed mood.
+72,Gen X,Male,Sad,Gulab Jamun,Veg,Dessert,North Indian,Gulab Jamun is recommended because it aligns with the sad mood.
+73,Millennial,Male,Fear,Samosa,Veg,Snack,North Indian,Samosa is recommended because it aligns with the stressed mood.
+74,Millennial,Male,Happy + Surprise,Vada Pav,Veg,Street Food,Maharashtrian,Vada Pav is recommended because it aligns with the romantic mood.
+75,Gen Z,Male,Happy,Samosa,Veg,Snack,North Indian,Samosa is recommended because it aligns with the comfort-seeking mood.
+76,Boomer,Female,Happy + Surprise,Jalebi,Veg,Dessert,North Indian,Jalebi is recommended because it aligns with the romantic mood.
+77,Gen X,Male,Sad,Samosa,Veg,Snack,North Indian,Samosa is recommended because it aligns with the sad mood.
+78,Boomer,Female,Happy,Filter Coffee,Veg,Beverage,South Indian,Filter Coffee is recommended because it aligns with the comfort-seeking mood.
+79,Millennial,Male,Surprise,Rajma Chawal,Veg,Homemade Meal,North Indian,Rajma Chawal is recommended because it aligns with the energetic mood.
+80,Gen X,Male,Sad,Butter Chicken,Non-Veg,Comfort Food,Punjabi,Butter Chicken is recommended because it aligns with the homesick mood.
+81,Millennial,Male,Angry,Idli with Sambar,Veg,Healthy Meal,South Indian,Idli with Sambar is recommended because it aligns with the angry mood.
+82,Gen Z,Female,Happy,Jalebi,Veg,Dessert,North Indian,Jalebi is recommended because it aligns with the happy mood.
+83,Millennial,Female,Sad,Biryani (Veg),Veg,Comfort Food,Hyderabadi,Biryani (Veg) is recommended because it aligns with the homesick mood.
+84,Boomer,Female,Happy + Surprise,Biryani (Chicken),Non-Veg,Comfort Food,Hyderabadi,Biryani (Chicken) is recommended because it aligns with the romantic mood.
+85,Gen X,Male,Angry,Butter Chicken,Non-Veg,Comfort Food,Punjabi,Butter Chicken is recommended because it aligns with the angry mood.
+86,Gen Z,Male,Sad,Khichdi,Veg,Comfort Food,All India,Khichdi is recommended because it aligns with the homesick mood.
+87,Boomer,Male,Surprise,Chicken Soup,Non-Veg,Healthy Meal,All India,Chicken Soup is recommended because it aligns with the energetic mood.
+88,Boomer,Male,Fear,Biryani (Chicken),Non-Veg,Comfort Food,Hyderabadi,Biryani (Chicken) is recommended because it aligns with the stressed mood.
+89,Gen Z,Male,Disgust,Pav Bhaji,Veg,Street Food,Maharashtrian,Pav Bhaji is recommended because it aligns with the bored mood.
+90,Boomer,Male,Happy,Samosa,Veg,Snack,North Indian,Samosa is recommended because it aligns with the comfort-seeking mood.
+91,Gen Z,Male,Disgust,Vada Pav,Veg,Street Food,Maharashtrian,Vada Pav is recommended because it aligns with the bored mood.
+92,Gen Z,Male,Fear,Rajma Chawal,Veg,Homemade Meal,North Indian,Rajma Chawal is recommended because it aligns with the stressed mood.
+93,Boomer,Female,Surprise,Samosa,Veg,Snack,North Indian,Samosa is recommended because it aligns with the energetic mood.
+94,Gen Z,Female,Sad,Biryani (Chicken),Non-Veg,Comfort Food,Hyderabadi,Biryani (Chicken) is recommended because it aligns with the homesick mood.
+95,Gen X,Male,Happy,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the happy mood.
+96,Boomer,Male,Sad,Idli with Sambar,Veg,Healthy Meal,South Indian,Idli with Sambar is recommended because it aligns with the sad mood.
+97,Boomer,Male,Fear,Paneer Tikka,Veg,Festive Food,Punjabi,Paneer Tikka is recommended because it aligns with the stressed mood.
+98,Millennial,Male,Happy,Dal Chawal,Veg,Homemade Meal,All India,Dal Chawal is recommended because it aligns with the comfort-seeking mood.
+99,Gen Z,Female,Surprise,Biryani (Chicken),Non-Veg,Comfort Food,Hyderabadi,Biryani (Chicken) is recommended because it aligns with the energetic mood.
+100,Gen X,Male,Neutral,Pani Puri,Veg,Street Food,North Indian,Pani Puri is recommended because it aligns with the relaxed mood.
+101,Gen X,Male,Happy,Samosa,Veg,Snack,North Indian,Samosa is recommended because it aligns with the happy mood.
+102,Boomer,Male,Sad,Rasam Rice,Veg,Comfort Food,South Indian,Rasam Rice is recommended because it aligns with the sad mood.
+103,Gen Z,Female,Neutral,Biryani (Veg),Veg,Comfort Food,Hyderabadi,Biryani (Veg) is recommended because it aligns with the relaxed mood.
+104,Gen Z,Male,Happy,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the comfort-seeking mood.
+105,Millennial,Female,Sad,Filter Coffee,Veg,Beverage,South Indian,Filter Coffee is recommended because it aligns with the sad mood.
+106,Millennial,Male,Happy,Vada Pav,Veg,Street Food,Maharashtrian,Vada Pav is recommended because it aligns with the happy mood.
+107,Gen X,Male,Neutral,Pav Bhaji,Veg,Street Food,Maharashtrian,Pav Bhaji is recommended because it aligns with the relaxed mood.
+108,Boomer,Male,Sad,Chai and Pakora,Veg,Comfort Food,North Indian,Chai and Pakora is recommended because it aligns with the sad mood.
+109,Gen Z,Male,Fear,Gulab Jamun,Veg,Dessert,North Indian,Gulab Jamun is recommended because it aligns with the stressed mood.
+110,Gen Z,Male,Happy + Surprise,Vada Pav,Veg,Street Food,Maharashtrian,Vada Pav is recommended because it aligns with the romantic mood.
+111,Gen Z,Male,Sad,Biryani (Veg),Veg,Comfort Food,Hyderabadi,Biryani (Veg) is recommended because it aligns with the homesick mood.
+112,Gen X,Male,Happy + Surprise,Fish Curry Rice,Non-Veg,Homemade Meal,Coastal,Fish Curry Rice is recommended because it aligns with the romantic mood.
+113,Gen Z,Male,Angry,Fish Curry Rice,Non-Veg,Homemade Meal,Coastal,Fish Curry Rice is recommended because it aligns with the angry mood.
+114,Gen X,Male,Sad,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the sad mood.
+115,Boomer,Female,Fear,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the stressed mood.
+116,Millennial,Male,Disgust,Idli with Sambar,Veg,Healthy Meal,South Indian,Idli with Sambar is recommended because it aligns with the bored mood.
+117,Gen X,Male,Fear,Gulab Jamun,Veg,Dessert,North Indian,Gulab Jamun is recommended because it aligns with the stressed mood.
+118,Gen X,Male,Sad,Pav Bhaji,Veg,Street Food,Maharashtrian,Pav Bhaji is recommended because it aligns with the homesick mood.
+119,Gen X,Female,Neutral,Rasam Rice,Veg,Comfort Food,South Indian,Rasam Rice is recommended because it aligns with the relaxed mood.
+120,Millennial,Female,Sad,Idli with Sambar,Veg,Healthy Meal,South Indian,Idli with Sambar is recommended because it aligns with the sad mood.
+121,Gen X,Male,Happy,Rasam Rice,Veg,Comfort Food,South Indian,Rasam Rice is recommended because it aligns with the comfort-seeking mood.
+122,Gen Z,Male,Happy + Surprise,Jalebi,Veg,Dessert,North Indian,Jalebi is recommended because it aligns with the romantic mood.
+123,Gen Z,Female,Happy,Pani Puri,Veg,Street Food,North Indian,Pani Puri is recommended because it aligns with the happy mood.
+124,Gen Z,Male,Neutral,Fish Curry Rice,Non-Veg,Homemade Meal,Coastal,Fish Curry Rice is recommended because it aligns with the relaxed mood.
+125,Gen Z,Female,Surprise,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the energetic mood.
+126,Gen X,Male,Fear,Filter Coffee,Veg,Beverage,South Indian,Filter Coffee is recommended because it aligns with the stressed mood.
+127,Gen Z,Male,Surprise,Rajma Chawal,Veg,Homemade Meal,North Indian,Rajma Chawal is recommended because it aligns with the energetic mood.
+128,Gen Z,Male,Happy + Surprise,Rasam Rice,Veg,Comfort Food,South Indian,Rasam Rice is recommended because it aligns with the romantic mood.
+129,Gen Z,Male,Sad,Butter Chicken,Non-Veg,Comfort Food,Punjabi,Butter Chicken is recommended because it aligns with the sad mood.
+130,Millennial,Male,Sad,Pani Puri,Veg,Street Food,North Indian,Pani Puri is recommended because it aligns with the sad mood.
+131,Gen Z,Female,Disgust,Gulab Jamun,Veg,Dessert,North Indian,Gulab Jamun is recommended because it aligns with the bored mood.
+132,Gen X,Female,Happy,Rasam Rice,Veg,Comfort Food,South Indian,Rasam Rice is recommended because it aligns with the happy mood.
+133,Millennial,Male,Neutral,Pani Puri,Veg,Street Food,North Indian,Pani Puri is recommended because it aligns with the relaxed mood.
+134,Boomer,Male,Sad,Biryani (Veg),Veg,Comfort Food,Hyderabadi,Biryani (Veg) is recommended because it aligns with the homesick mood.
+135,Gen X,Female,Happy,Biryani (Chicken),Non-Veg,Comfort Food,Hyderabadi,Biryani (Chicken) is recommended because it aligns with the comfort-seeking mood.
+136,Gen X,Male,Sad,Filter Coffee,Veg,Beverage,South Indian,Filter Coffee is recommended because it aligns with the sad mood.
+137,Gen X,Male,Happy,Fish Curry Rice,Non-Veg,Homemade Meal,Coastal,Fish Curry Rice is recommended because it aligns with the comfort-seeking mood.
+138,Gen Z,Male,Sad,Pani Puri,Veg,Street Food,North Indian,Pani Puri is recommended because it aligns with the homesick mood.
+139,Boomer,Male,Surprise,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the energetic mood.
+140,Boomer,Female,Neutral,Filter Coffee,Veg,Beverage,South Indian,Filter Coffee is recommended because it aligns with the relaxed mood.
+141,Boomer,Male,Sad,Chicken Soup,Non-Veg,Healthy Meal,All India,Chicken Soup is recommended because it aligns with the sad mood.
+142,Gen Z,Male,Sad,Dal Chawal,Veg,Homemade Meal,All India,Dal Chawal is recommended because it aligns with the homesick mood.
+143,Gen X,Male,Neutral,Paneer Tikka,Veg,Festive Food,Punjabi,Paneer Tikka is recommended because it aligns with the relaxed mood.
+144,Boomer,Female,Surprise,Gulab Jamun,Veg,Dessert,North Indian,Gulab Jamun is recommended because it aligns with the energetic mood.
+145,Boomer,Male,Angry,Vada Pav,Veg,Street Food,Maharashtrian,Vada Pav is recommended because it aligns with the angry mood.
+146,Millennial,Male,Disgust,Rajma Chawal,Veg,Homemade Meal,North Indian,Rajma Chawal is recommended because it aligns with the bored mood.
+147,Gen Z,Male,Fear,Idli with Sambar,Veg,Healthy Meal,South Indian,Idli with Sambar is recommended because it aligns with the stressed mood.
+148,Millennial,Female,Neutral,Chai and Pakora,Veg,Comfort Food,North Indian,Chai and Pakora is recommended because it aligns with the relaxed mood.
+149,Boomer,Female,Surprise,Pav Bhaji,Veg,Street Food,Maharashtrian,Pav Bhaji is recommended because it aligns with the energetic mood.
+150,Boomer,Male,Sad,Chai and Pakora,Veg,Comfort Food,North Indian,Chai and Pakora is recommended because it aligns with the homesick mood.
+151,Gen X,Female,Happy,Fish Curry Rice,Non-Veg,Homemade Meal,Coastal,Fish Curry Rice is recommended because it aligns with the happy mood.
+152,Millennial,Female,Happy,Fish Curry Rice,Non-Veg,Homemade Meal,Coastal,Fish Curry Rice is recommended because it aligns with the comfort-seeking mood.
+153,Gen Z,Male,Happy,Samosa,Veg,Snack,North Indian,Samosa is recommended because it aligns with the comfort-seeking mood.
+154,Millennial,Male,Surprise,Filter Coffee,Veg,Beverage,South Indian,Filter Coffee is recommended because it aligns with the energetic mood.
+155,Gen Z,Male,Neutral,Paneer Tikka,Veg,Festive Food,Punjabi,Paneer Tikka is recommended because it aligns with the relaxed mood.
+156,Gen X,Male,Happy,Rajma Chawal,Veg,Homemade Meal,North Indian,Rajma Chawal is recommended because it aligns with the happy mood.
+157,Gen Z,Male,Happy,Jalebi,Veg,Dessert,North Indian,Jalebi is recommended because it aligns with the comfort-seeking mood.
+158,Gen X,Female,Happy,Vada Pav,Veg,Street Food,Maharashtrian,Vada Pav is recommended because it aligns with the happy mood.
+159,Gen Z,Male,Happy,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the comfort-seeking mood.
+160,Boomer,Male,Sad,Rajma Chawal,Veg,Homemade Meal,North Indian,Rajma Chawal is recommended because it aligns with the sad mood.
+161,Gen Z,Male,Sad,Dal Chawal,Veg,Homemade Meal,All India,Dal Chawal is recommended because it aligns with the homesick mood.
+162,Boomer,Female,Surprise,Pani Puri,Veg,Street Food,North Indian,Pani Puri is recommended because it aligns with the energetic mood.
+163,Millennial,Male,Disgust,Pani Puri,Veg,Street Food,North Indian,Pani Puri is recommended because it aligns with the bored mood.
+164,Gen X,Male,Happy,Pani Puri,Veg,Street Food,North Indian,Pani Puri is recommended because it aligns with the happy mood.
+165,Gen Z,Male,Happy + Surprise,Vada Pav,Veg,Street Food,Maharashtrian,Vada Pav is recommended because it aligns with the romantic mood.
+166,Gen X,Male,Sad,Vada Pav,Veg,Street Food,Maharashtrian,Vada Pav is recommended because it aligns with the sad mood.
+167,Gen X,Male,Sad,Lassi,Veg,Beverage,Punjabi,Lassi is recommended because it aligns with the homesick mood.
+168,Gen Z,Female,Sad,Biryani (Veg),Veg,Comfort Food,Hyderabadi,Biryani (Veg) is recommended because it aligns with the homesick mood.
+169,Millennial,Male,Happy,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the happy mood.
+170,Millennial,Male,Happy + Surprise,Jalebi,Veg,Dessert,North Indian,Jalebi is recommended because it aligns with the romantic mood.
+171,Gen X,Male,Disgust,Khichdi,Veg,Comfort Food,All India,Khichdi is recommended because it aligns with the bored mood.
+172,Gen X,Male,Sad,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the homesick mood.
+173,Gen Z,Female,Neutral,Rajma Chawal,Veg,Homemade Meal,North Indian,Rajma Chawal is recommended because it aligns with the relaxed mood.
+174,Gen Z,Male,Disgust,Idli with Sambar,Veg,Healthy Meal,South Indian,Idli with Sambar is recommended because it aligns with the bored mood.
+175,Boomer,Male,Sad,Khichdi,Veg,Comfort Food,All India,Khichdi is recommended because it aligns with the homesick mood.
+176,Boomer,Male,Happy,Pav Bhaji,Veg,Street Food,Maharashtrian,Pav Bhaji is recommended because it aligns with the happy mood.
+177,Boomer,Male,Sad,Gulab Jamun,Veg,Dessert,North Indian,Gulab Jamun is recommended because it aligns with the sad mood.
+178,Boomer,Female,Happy + Surprise,Pav Bhaji,Veg,Street Food,Maharashtrian,Pav Bhaji is recommended because it aligns with the romantic mood.
+179,Gen Z,Male,Sad,Pav Bhaji,Veg,Street Food,Maharashtrian,Pav Bhaji is recommended because it aligns with the homesick mood.
+180,Boomer,Female,Fear,Samosa,Veg,Snack,North Indian,Samosa is recommended because it aligns with the stressed mood.
+181,Gen X,Male,Fear,Butter Chicken,Non-Veg,Comfort Food,Punjabi,Butter Chicken is recommended because it aligns with the stressed mood.
+182,Gen X,Male,Sad,Lassi,Veg,Beverage,Punjabi,Lassi is recommended because it aligns with the homesick mood.
+183,Gen Z,Male,Fear,Samosa,Veg,Snack,North Indian,Samosa is recommended because it aligns with the stressed mood.
+184,Gen X,Female,Sad,Samosa,Veg,Snack,North Indian,Samosa is recommended because it aligns with the homesick mood.
+185,Gen Z,Male,Surprise,Dal Chawal,Veg,Homemade Meal,All India,Dal Chawal is recommended because it aligns with the energetic mood.
+186,Boomer,Male,Sad,Biryani (Veg),Veg,Comfort Food,Hyderabadi,Biryani (Veg) is recommended because it aligns with the sad mood.
+187,Gen X,Male,Sad,Chai and Pakora,Veg,Comfort Food,North Indian,Chai and Pakora is recommended because it aligns with the sad mood.
+188,Boomer,Male,Happy,Rajma Chawal,Veg,Homemade Meal,North Indian,Rajma Chawal is recommended because it aligns with the comfort-seeking mood.
+189,Millennial,Male,Happy + Surprise,Dal Chawal,Veg,Homemade Meal,All India,Dal Chawal is recommended because it aligns with the romantic mood.
+190,Boomer,Female,Sad,Paneer Tikka,Veg,Festive Food,Punjabi,Paneer Tikka is recommended because it aligns with the sad mood.
+191,Boomer,Male,Sad,Rajma Chawal,Veg,Homemade Meal,North Indian,Rajma Chawal is recommended because it aligns with the sad mood.
+192,Gen X,Male,Sad,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the sad mood.
+193,Boomer,Female,Neutral,Dal Chawal,Veg,Homemade Meal,All India,Dal Chawal is recommended because it aligns with the relaxed mood.
+194,Millennial,Female,Sad,Pav Bhaji,Veg,Street Food,Maharashtrian,Pav Bhaji is recommended because it aligns with the homesick mood.
+195,Gen X,Male,Happy + Surprise,Idli with Sambar,Veg,Healthy Meal,South Indian,Idli with Sambar is recommended because it aligns with the romantic mood.
+196,Boomer,Male,Sad,Paneer Tikka,Veg,Festive Food,Punjabi,Paneer Tikka is recommended because it aligns with the homesick mood.
+197,Gen X,Female,Fear,Pav Bhaji,Veg,Street Food,Maharashtrian,Pav Bhaji is recommended because it aligns with the stressed mood.
+198,Gen Z,Female,Angry,Rasam Rice,Veg,Comfort Food,South Indian,Rasam Rice is recommended because it aligns with the angry mood.
+199,Boomer,Male,Happy,Idli with Sambar,Veg,Healthy Meal,South Indian,Idli with Sambar is recommended because it aligns with the comfort-seeking mood.
+200,Boomer,Male,Angry,Butter Chicken,Non-Veg,Comfort Food,Punjabi,Butter Chicken is recommended because it aligns with the angry mood.
+201,Millennial,Male,Fear,Butter Chicken,Non-Veg,Comfort Food,Punjabi,Butter Chicken is recommended because it aligns with the stressed mood.
+202,Millennial,Male,Sad,Chicken Soup,Non-Veg,Healthy Meal,All India,Chicken Soup is recommended because it aligns with the homesick mood.
+203,Millennial,Male,Fear,Paneer Tikka,Veg,Festive Food,Punjabi,Paneer Tikka is recommended because it aligns with the stressed mood.
+204,Gen X,Male,Sad,Vada Pav,Veg,Street Food,Maharashtrian,Vada Pav is recommended because it aligns with the sad mood.
+205,Gen Z,Male,Angry,Khichdi,Veg,Comfort Food,All India,Khichdi is recommended because it aligns with the angry mood.
+206,Boomer,Female,Happy,Vada Pav,Veg,Street Food,Maharashtrian,Vada Pav is recommended because it aligns with the comfort-seeking mood.
+207,Gen X,Male,Sad,Chai and Pakora,Veg,Comfort Food,North Indian,Chai and Pakora is recommended because it aligns with the homesick mood.
+208,Boomer,Female,Sad,Lassi,Veg,Beverage,Punjabi,Lassi is recommended because it aligns with the homesick mood.
+209,Boomer,Female,Neutral,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the relaxed mood.
+210,Gen Z,Male,Surprise,Rajma Chawal,Veg,Homemade Meal,North Indian,Rajma Chawal is recommended because it aligns with the energetic mood.
+211,Boomer,Female,Angry,Gulab Jamun,Veg,Dessert,North Indian,Gulab Jamun is recommended because it aligns with the angry mood.
+212,Boomer,Male,Sad,Dal Chawal,Veg,Homemade Meal,All India,Dal Chawal is recommended because it aligns with the sad mood.
+213,Millennial,Female,Fear,Samosa,Veg,Snack,North Indian,Samosa is recommended because it aligns with the stressed mood.
+214,Millennial,Male,Sad,Biryani (Veg),Veg,Comfort Food,Hyderabadi,Biryani (Veg) is recommended because it aligns with the homesick mood.
+215,Millennial,Male,Sad,Pani Puri,Veg,Street Food,North Indian,Pani Puri is recommended because it aligns with the homesick mood.
+216,Millennial,Male,Sad,Lassi,Veg,Beverage,Punjabi,Lassi is recommended because it aligns with the sad mood.
+217,Millennial,Male,Happy + Surprise,Chai and Pakora,Veg,Comfort Food,North Indian,Chai and Pakora is recommended because it aligns with the romantic mood.
+218,Gen X,Male,Happy + Surprise,Chicken Soup,Non-Veg,Healthy Meal,All India,Chicken Soup is recommended because it aligns with the romantic mood.
+219,Millennial,Male,Sad,Filter Coffee,Veg,Beverage,South Indian,Filter Coffee is recommended because it aligns with the sad mood.
+220,Millennial,Female,Sad,Chai and Pakora,Veg,Comfort Food,North Indian,Chai and Pakora is recommended because it aligns with the sad mood.
+221,Gen X,Female,Happy + Surprise,Biryani (Chicken),Non-Veg,Comfort Food,Hyderabadi,Biryani (Chicken) is recommended because it aligns with the romantic mood.
+222,Gen X,Male,Disgust,Gulab Jamun,Veg,Dessert,North Indian,Gulab Jamun is recommended because it aligns with the bored mood.
+223,Gen X,Female,Fear,Chai and Pakora,Veg,Comfort Food,North Indian,Chai and Pakora is recommended because it aligns with the stressed mood.
+224,Boomer,Male,Fear,Chai and Pakora,Veg,Comfort Food,North Indian,Chai and Pakora is recommended because it aligns with the stressed mood.
+225,Boomer,Female,Neutral,Chai and Pakora,Veg,Comfort Food,North Indian,Chai and Pakora is recommended because it aligns with the relaxed mood.
+226,Gen X,Male,Sad,Biryani (Chicken),Non-Veg,Comfort Food,Hyderabadi,Biryani (Chicken) is recommended because it aligns with the homesick mood.
+227,Millennial,Male,Sad,Idli with Sambar,Veg,Healthy Meal,South Indian,Idli with Sambar is recommended because it aligns with the homesick mood.
+228,Millennial,Male,Fear,Rasam Rice,Veg,Comfort Food,South Indian,Rasam Rice is recommended because it aligns with the stressed mood.
+229,Boomer,Male,Sad,Fish Curry Rice,Non-Veg,Homemade Meal,Coastal,Fish Curry Rice is recommended because it aligns with the homesick mood.
+230,Boomer,Male,Disgust,Paneer Tikka,Veg,Festive Food,Punjabi,Paneer Tikka is recommended because it aligns with the bored mood.
+231,Gen Z,Male,Neutral,Biryani (Chicken),Non-Veg,Comfort Food,Hyderabadi,Biryani (Chicken) is recommended because it aligns with the relaxed mood.
+232,Gen Z,Female,Happy,Gulab Jamun,Veg,Dessert,North Indian,Gulab Jamun is recommended because it aligns with the comfort-seeking mood.
+233,Gen Z,Male,Disgust,Pav Bhaji,Veg,Street Food,Maharashtrian,Pav Bhaji is recommended because it aligns with the bored mood.
+234,Gen Z,Male,Happy,Khichdi,Veg,Comfort Food,All India,Khichdi is recommended because it aligns with the happy mood.
+235,Boomer,Female,Surprise,Vada Pav,Veg,Street Food,Maharashtrian,Vada Pav is recommended because it aligns with the energetic mood.
+236,Millennial,Male,Sad,Biryani (Chicken),Non-Veg,Comfort Food,Hyderabadi,Biryani (Chicken) is recommended because it aligns with the homesick mood.
+237,Gen Z,Male,Happy,Samosa,Veg,Snack,North Indian,Samosa is recommended because it aligns with the comfort-seeking mood.
+238,Millennial,Male,Happy + Surprise,Idli with Sambar,Veg,Healthy Meal,South Indian,Idli with Sambar is recommended because it aligns with the romantic mood.
+239,Boomer,Female,Surprise,Rajma Chawal,Veg,Homemade Meal,North Indian,Rajma Chawal is recommended because it aligns with the energetic mood.
+240,Boomer,Male,Happy,Paneer Tikka,Veg,Festive Food,Punjabi,Paneer Tikka is recommended because it aligns with the comfort-seeking mood.
+241,Boomer,Male,Sad,Pani Puri,Veg,Street Food,North Indian,Pani Puri is recommended because it aligns with the sad mood.
+242,Millennial,Male,Neutral,Khichdi,Veg,Comfort Food,All India,Khichdi is recommended because it aligns with the relaxed mood.
+243,Boomer,Male,Sad,Chicken Soup,Non-Veg,Healthy Meal,All India,Chicken Soup is recommended because it aligns with the sad mood.
+244,Boomer,Male,Neutral,Rasam Rice,Veg,Comfort Food,South Indian,Rasam Rice is recommended because it aligns with the relaxed mood.
+245,Boomer,Male,Neutral,Khichdi,Veg,Comfort Food,All India,Khichdi is recommended because it aligns with the relaxed mood.
+246,Millennial,Male,Happy,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the happy mood.
+247,Gen Z,Male,Fear,Filter Coffee,Veg,Beverage,South Indian,Filter Coffee is recommended because it aligns with the stressed mood.
+248,Millennial,Male,Happy,Biryani (Veg),Veg,Comfort Food,Hyderabadi,Biryani (Veg) is recommended because it aligns with the happy mood.
+249,Boomer,Female,Sad,Paneer Tikka,Veg,Festive Food,Punjabi,Paneer Tikka is recommended because it aligns with the homesick mood.
+250,Gen X,Male,Fear,Jalebi,Veg,Dessert,North Indian,Jalebi is recommended because it aligns with the stressed mood.
+251,Millennial,Male,Neutral,Pani Puri,Veg,Street Food,North Indian,Pani Puri is recommended because it aligns with the relaxed mood.
+252,Gen X,Male,Angry,Pani Puri,Veg,Street Food,North Indian,Pani Puri is recommended because it aligns with the angry mood.
+253,Gen X,Male,Surprise,Pani Puri,Veg,Street Food,North Indian,Pani Puri is recommended because it aligns with the energetic mood.
+254,Millennial,Female,Sad,Dal Chawal,Veg,Homemade Meal,All India,Dal Chawal is recommended because it aligns with the sad mood.
+255,Boomer,Male,Surprise,Jalebi,Veg,Dessert,North Indian,Jalebi is recommended because it aligns with the energetic mood.
+256,Gen Z,Male,Fear,Lassi,Veg,Beverage,Punjabi,Lassi is recommended because it aligns with the stressed mood.
+257,Gen X,Male,Surprise,Chicken Soup,Non-Veg,Healthy Meal,All India,Chicken Soup is recommended because it aligns with the energetic mood.
+258,Gen Z,Male,Neutral,Dal Chawal,Veg,Homemade Meal,All India,Dal Chawal is recommended because it aligns with the relaxed mood.
+259,Gen Z,Male,Sad,Vada Pav,Veg,Street Food,Maharashtrian,Vada Pav is recommended because it aligns with the homesick mood.
+260,Millennial,Male,Happy,Idli with Sambar,Veg,Healthy Meal,South Indian,Idli with Sambar is recommended because it aligns with the comfort-seeking mood.
+261,Gen X,Male,Sad,Paneer Tikka,Veg,Festive Food,Punjabi,Paneer Tikka is recommended because it aligns with the homesick mood.
+262,Millennial,Male,Sad,Vada Pav,Veg,Street Food,Maharashtrian,Vada Pav is recommended because it aligns with the homesick mood.
+263,Gen Z,Male,Happy + Surprise,Rasam Rice,Veg,Comfort Food,South Indian,Rasam Rice is recommended because it aligns with the romantic mood.
+264,Millennial,Male,Happy,Dal Chawal,Veg,Homemade Meal,All India,Dal Chawal is recommended because it aligns with the comfort-seeking mood.
+265,Millennial,Male,Happy,Biryani (Veg),Veg,Comfort Food,Hyderabadi,Biryani (Veg) is recommended because it aligns with the comfort-seeking mood.
+266,Gen X,Female,Sad,Rasam Rice,Veg,Comfort Food,South Indian,Rasam Rice is recommended because it aligns with the sad mood.
+267,Boomer,Male,Angry,Chai and Pakora,Veg,Comfort Food,North Indian,Chai and Pakora is recommended because it aligns with the angry mood.
+268,Gen Z,Female,Happy,Idli with Sambar,Veg,Healthy Meal,South Indian,Idli with Sambar is recommended because it aligns with the comfort-seeking mood.
+269,Gen X,Male,Happy,Chicken Soup,Non-Veg,Healthy Meal,All India,Chicken Soup is recommended because it aligns with the happy mood.
+270,Gen X,Male,Angry,Biryani (Chicken),Non-Veg,Comfort Food,Hyderabadi,Biryani (Chicken) is recommended because it aligns with the angry mood.
+271,Boomer,Male,Happy + Surprise,Biryani (Veg),Veg,Comfort Food,Hyderabadi,Biryani (Veg) is recommended because it aligns with the romantic mood.
+272,Gen Z,Male,Happy,Chai and Pakora,Veg,Comfort Food,North Indian,Chai and Pakora is recommended because it aligns with the comfort-seeking mood.
+273,Gen Z,Female,Happy,Rasam Rice,Veg,Comfort Food,South Indian,Rasam Rice is recommended because it aligns with the happy mood.
+274,Millennial,Male,Fear,Rajma Chawal,Veg,Homemade Meal,North Indian,Rajma Chawal is recommended because it aligns with the stressed mood.
+275,Gen X,Male,Neutral,Jalebi,Veg,Dessert,North Indian,Jalebi is recommended because it aligns with the relaxed mood.
+276,Millennial,Male,Neutral,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the relaxed mood.
+277,Gen X,Male,Neutral,Rajma Chawal,Veg,Homemade Meal,North Indian,Rajma Chawal is recommended because it aligns with the relaxed mood.
+278,Boomer,Female,Happy,Pav Bhaji,Veg,Street Food,Maharashtrian,Pav Bhaji is recommended because it aligns with the comfort-seeking mood.
+279,Boomer,Female,Happy + Surprise,Paneer Tikka,Veg,Festive Food,Punjabi,Paneer Tikka is recommended because it aligns with the romantic mood.
+280,Boomer,Male,Neutral,Paneer Tikka,Veg,Festive Food,Punjabi,Paneer Tikka is recommended because it aligns with the relaxed mood.
+281,Millennial,Female,Sad,Vada Pav,Veg,Street Food,Maharashtrian,Vada Pav is recommended because it aligns with the sad mood.
+282,Boomer,Male,Sad,Pav Bhaji,Veg,Street Food,Maharashtrian,Pav Bhaji is recommended because it aligns with the sad mood.
+283,Gen Z,Male,Surprise,Paneer Tikka,Veg,Festive Food,Punjabi,Paneer Tikka is recommended because it aligns with the energetic mood.
+284,Gen Z,Male,Happy,Rasam Rice,Veg,Comfort Food,South Indian,Rasam Rice is recommended because it aligns with the happy mood.
+285,Boomer,Male,Happy + Surprise,Filter Coffee,Veg,Beverage,South Indian,Filter Coffee is recommended because it aligns with the romantic mood.
+286,Boomer,Female,Disgust,Chicken Soup,Non-Veg,Healthy Meal,All India,Chicken Soup is recommended because it aligns with the bored mood.
+287,Gen Z,Male,Sad,Rasam Rice,Veg,Comfort Food,South Indian,Rasam Rice is recommended because it aligns with the homesick mood.
+288,Gen X,Male,Happy,Rajma Chawal,Veg,Homemade Meal,North Indian,Rajma Chawal is recommended because it aligns with the comfort-seeking mood.
+289,Boomer,Male,Sad,Jalebi,Veg,Dessert,North Indian,Jalebi is recommended because it aligns with the sad mood.
+290,Boomer,Male,Surprise,Gulab Jamun,Veg,Dessert,North Indian,Gulab Jamun is recommended because it aligns with the energetic mood.
+291,Boomer,Male,Happy,Pav Bhaji,Veg,Street Food,Maharashtrian,Pav Bhaji is recommended because it aligns with the comfort-seeking mood.
+292,Millennial,Male,Neutral,Butter Chicken,Non-Veg,Comfort Food,Punjabi,Butter Chicken is recommended because it aligns with the relaxed mood.
+293,Boomer,Male,Happy,Idli with Sambar,Veg,Healthy Meal,South Indian,Idli with Sambar is recommended because it aligns with the comfort-seeking mood.
+294,Millennial,Female,Neutral,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the relaxed mood.
+295,Boomer,Female,Happy,Chai and Pakora,Veg,Comfort Food,North Indian,Chai and Pakora is recommended because it aligns with the comfort-seeking mood.
+296,Boomer,Female,Surprise,Chai and Pakora,Veg,Comfort Food,North Indian,Chai and Pakora is recommended because it aligns with the energetic mood.
+297,Gen X,Male,Happy + Surprise,Vada Pav,Veg,Street Food,Maharashtrian,Vada Pav is recommended because it aligns with the romantic mood.
+298,Millennial,Male,Neutral,Butter Chicken,Non-Veg,Comfort Food,Punjabi,Butter Chicken is recommended because it aligns with the relaxed mood.
+299,Millennial,Female,Happy + Surprise,Pav Bhaji,Veg,Street Food,Maharashtrian,Pav Bhaji is recommended because it aligns with the romantic mood.
+300,Boomer,Male,Happy,Chicken Soup,Non-Veg,Healthy Meal,All India,Chicken Soup is recommended because it aligns with the comfort-seeking mood.
+301,Gen X,Female,Sad,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the sad mood.
+302,Gen Z,Male,Angry,Dal Chawal,Veg,Homemade Meal,All India,Dal Chawal is recommended because it aligns with the angry mood.
+303,Millennial,Male,Surprise,Chai and Pakora,Veg,Comfort Food,North Indian,Chai and Pakora is recommended because it aligns with the energetic mood.
+304,Boomer,Female,Happy,Filter Coffee,Veg,Beverage,South Indian,Filter Coffee is recommended because it aligns with the comfort-seeking mood.
+305,Gen X,Male,Neutral,Jalebi,Veg,Dessert,North Indian,Jalebi is recommended because it aligns with the relaxed mood.
+306,Boomer,Female,Disgust,Fish Curry Rice,Non-Veg,Homemade Meal,Coastal,Fish Curry Rice is recommended because it aligns with the bored mood.
+307,Boomer,Female,Sad,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the sad mood.
+308,Boomer,Male,Disgust,Jalebi,Veg,Dessert,North Indian,Jalebi is recommended because it aligns with the bored mood.
+309,Gen Z,Male,Sad,Lassi,Veg,Beverage,Punjabi,Lassi is recommended because it aligns with the homesick mood.
+310,Millennial,Female,Happy,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the comfort-seeking mood.
+311,Gen X,Female,Sad,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the sad mood.
+312,Gen Z,Male,Sad,Biryani (Chicken),Non-Veg,Comfort Food,Hyderabadi,Biryani (Chicken) is recommended because it aligns with the homesick mood.
+313,Boomer,Male,Neutral,Chai and Pakora,Veg,Comfort Food,North Indian,Chai and Pakora is recommended because it aligns with the relaxed mood.
+314,Gen Z,Male,Disgust,Pani Puri,Veg,Street Food,North Indian,Pani Puri is recommended because it aligns with the bored mood.
+315,Boomer,Female,Fear,Rajma Chawal,Veg,Homemade Meal,North Indian,Rajma Chawal is recommended because it aligns with the stressed mood.
+316,Gen Z,Female,Happy,Butter Chicken,Non-Veg,Comfort Food,Punjabi,Butter Chicken is recommended because it aligns with the happy mood.
+317,Gen X,Male,Happy,Butter Chicken,Non-Veg,Comfort Food,Punjabi,Butter Chicken is recommended because it aligns with the comfort-seeking mood.
+318,Millennial,Male,Happy,Biryani (Chicken),Non-Veg,Comfort Food,Hyderabadi,Biryani (Chicken) is recommended because it aligns with the happy mood.
+319,Gen X,Male,Happy + Surprise,Samosa,Veg,Snack,North Indian,Samosa is recommended because it aligns with the romantic mood.
+320,Millennial,Female,Fear,Pav Bhaji,Veg,Street Food,Maharashtrian,Pav Bhaji is recommended because it aligns with the stressed mood.
+321,Boomer,Female,Sad,Samosa,Veg,Snack,North Indian,Samosa is recommended because it aligns with the sad mood.
+322,Gen Z,Male,Neutral,Vada Pav,Veg,Street Food,Maharashtrian,Vada Pav is recommended because it aligns with the relaxed mood.
+323,Boomer,Male,Sad,Fish Curry Rice,Non-Veg,Homemade Meal,Coastal,Fish Curry Rice is recommended because it aligns with the homesick mood.
+324,Gen Z,Male,Neutral,Lassi,Veg,Beverage,Punjabi,Lassi is recommended because it aligns with the relaxed mood.
+325,Boomer,Male,Angry,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the angry mood.
+326,Millennial,Male,Neutral,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the relaxed mood.
+327,Gen X,Male,Fear,Biryani (Chicken),Non-Veg,Comfort Food,Hyderabadi,Biryani (Chicken) is recommended because it aligns with the stressed mood.
+328,Boomer,Female,Sad,Idli with Sambar,Veg,Healthy Meal,South Indian,Idli with Sambar is recommended because it aligns with the homesick mood.
+329,Gen Z,Male,Angry,Biryani (Chicken),Non-Veg,Comfort Food,Hyderabadi,Biryani (Chicken) is recommended because it aligns with the angry mood.
+330,Millennial,Male,Angry,Vada Pav,Veg,Street Food,Maharashtrian,Vada Pav is recommended because it aligns with the angry mood.
+331,Boomer,Male,Sad,Rasam Rice,Veg,Comfort Food,South Indian,Rasam Rice is recommended because it aligns with the homesick mood.
+332,Millennial,Male,Sad,Idli with Sambar,Veg,Healthy Meal,South Indian,Idli with Sambar is recommended because it aligns with the sad mood.
+333,Gen Z,Female,Disgust,Paneer Tikka,Veg,Festive Food,Punjabi,Paneer Tikka is recommended because it aligns with the bored mood.
+334,Gen X,Male,Angry,Filter Coffee,Veg,Beverage,South Indian,Filter Coffee is recommended because it aligns with the angry mood.
+335,Millennial,Male,Disgust,Idli with Sambar,Veg,Healthy Meal,South Indian,Idli with Sambar is recommended because it aligns with the bored mood.
+336,Millennial,Male,Angry,Paneer Tikka,Veg,Festive Food,Punjabi,Paneer Tikka is recommended because it aligns with the angry mood.
+337,Millennial,Male,Fear,Vada Pav,Veg,Street Food,Maharashtrian,Vada Pav is recommended because it aligns with the stressed mood.
+338,Boomer,Male,Sad,Idli with Sambar,Veg,Healthy Meal,South Indian,Idli with Sambar is recommended because it aligns with the sad mood.
+339,Millennial,Female,Happy,Dal Chawal,Veg,Homemade Meal,All India,Dal Chawal is recommended because it aligns with the comfort-seeking mood.
+340,Gen Z,Male,Disgust,Biryani (Chicken),Non-Veg,Comfort Food,Hyderabadi,Biryani (Chicken) is recommended because it aligns with the bored mood.
+341,Millennial,Male,Sad,Fish Curry Rice,Non-Veg,Homemade Meal,Coastal,Fish Curry Rice is recommended because it aligns with the homesick mood.
+342,Gen X,Female,Neutral,Gulab Jamun,Veg,Dessert,North Indian,Gulab Jamun is recommended because it aligns with the relaxed mood.
+343,Boomer,Male,Happy,Fish Curry Rice,Non-Veg,Homemade Meal,Coastal,Fish Curry Rice is recommended because it aligns with the comfort-seeking mood.
+344,Gen X,Male,Disgust,Rasam Rice,Veg,Comfort Food,South Indian,Rasam Rice is recommended because it aligns with the bored mood.
+345,Gen Z,Male,Happy,Filter Coffee,Veg,Beverage,South Indian,Filter Coffee is recommended because it aligns with the comfort-seeking mood.
+346,Gen X,Male,Surprise,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the energetic mood.
+347,Gen Z,Female,Happy,Lassi,Veg,Beverage,Punjabi,Lassi is recommended because it aligns with the happy mood.
+348,Boomer,Male,Disgust,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the bored mood.
+349,Boomer,Female,Happy,Lassi,Veg,Beverage,Punjabi,Lassi is recommended because it aligns with the happy mood.
+350,Millennial,Male,Angry,Dal Chawal,Veg,Homemade Meal,All India,Dal Chawal is recommended because it aligns with the angry mood.
+351,Boomer,Female,Happy,Gulab Jamun,Veg,Dessert,North Indian,Gulab Jamun is recommended because it aligns with the happy mood.
+352,Gen X,Male,Happy,Fish Curry Rice,Non-Veg,Homemade Meal,Coastal,Fish Curry Rice is recommended because it aligns with the happy mood.
+353,Boomer,Female,Sad,Lassi,Veg,Beverage,Punjabi,Lassi is recommended because it aligns with the homesick mood.
+354,Millennial,Male,Happy,Khichdi,Veg,Comfort Food,All India,Khichdi is recommended because it aligns with the happy mood.
+355,Gen X,Male,Neutral,Jalebi,Veg,Dessert,North Indian,Jalebi is recommended because it aligns with the relaxed mood.
+356,Millennial,Male,Sad,Filter Coffee,Veg,Beverage,South Indian,Filter Coffee is recommended because it aligns with the sad mood.
+357,Gen X,Male,Happy,Idli with Sambar,Veg,Healthy Meal,South Indian,Idli with Sambar is recommended because it aligns with the happy mood.
+358,Millennial,Female,Angry,Filter Coffee,Veg,Beverage,South Indian,Filter Coffee is recommended because it aligns with the angry mood.
+359,Boomer,Male,Disgust,Idli with Sambar,Veg,Healthy Meal,South Indian,Idli with Sambar is recommended because it aligns with the bored mood.
+360,Boomer,Male,Angry,Gulab Jamun,Veg,Dessert,North Indian,Gulab Jamun is recommended because it aligns with the angry mood.
+361,Boomer,Male,Sad,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the sad mood.
+362,Millennial,Male,Happy,Biryani (Veg),Veg,Comfort Food,Hyderabadi,Biryani (Veg) is recommended because it aligns with the comfort-seeking mood.
+363,Gen Z,Male,Sad,Gulab Jamun,Veg,Dessert,North Indian,Gulab Jamun is recommended because it aligns with the sad mood.
+364,Gen Z,Male,Happy + Surprise,Rasam Rice,Veg,Comfort Food,South Indian,Rasam Rice is recommended because it aligns with the romantic mood.
+365,Boomer,Male,Sad,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the homesick mood.
+366,Millennial,Male,Happy + Surprise,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the romantic mood.
+367,Gen X,Male,Sad,Biryani (Veg),Veg,Comfort Food,Hyderabadi,Biryani (Veg) is recommended because it aligns with the homesick mood.
+368,Millennial,Male,Happy + Surprise,Gulab Jamun,Veg,Dessert,North Indian,Gulab Jamun is recommended because it aligns with the romantic mood.
+369,Gen X,Male,Angry,Idli with Sambar,Veg,Healthy Meal,South Indian,Idli with Sambar is recommended because it aligns with the angry mood.
+370,Gen Z,Male,Surprise,Rasam Rice,Veg,Comfort Food,South Indian,Rasam Rice is recommended because it aligns with the energetic mood.
+371,Gen Z,Male,Fear,Rasam Rice,Veg,Comfort Food,South Indian,Rasam Rice is recommended because it aligns with the stressed mood.
+372,Gen Z,Male,Disgust,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the bored mood.
+373,Gen Z,Male,Sad,Gulab Jamun,Veg,Dessert,North Indian,Gulab Jamun is recommended because it aligns with the homesick mood.
+374,Gen X,Male,Happy + Surprise,Masala Dosa,Veg,Comfort Food,South Indian,Masala Dosa is recommended because it aligns with the romantic mood.
+375,Gen X,Male,Surprise,Vada Pav,Veg,Street Food,Maharashtrian,Vada Pav is recommended because it aligns with the energetic mood.
+376,Gen X,Female,Happy + Surprise,Jalebi,Veg,Dessert,North Indian,Jalebi is recommended because it aligns with the romantic mood.
+377,Gen Z,Male,Happy,Samosa,Veg,Snack,North Indian,Samosa is recommended because it aligns with the happy mood.
+378,Millennial,Male,Fear,Biryani (Chicken),Non-Veg,Comfort Food,Hyderabadi,Biryani (Chicken) is recommended because it aligns with the stressed mood.
+379,Millennial,Male,Happy,Paneer Tikka,Veg,Festive Food,Punjabi,Paneer Tikka is recommended because it aligns with the happy mood.
+380,Gen Z,Male,Disgust,Vada Pav,Veg,Street Food,Maharashtrian,Vada Pav is recommended because it aligns with the bored mood.
+381,Gen X,Male,Surprise,Pav Bhaji,Veg,Street Food,Maharashtrian,Pav Bhaji is recommended because it aligns with the energetic mood.
+382,Gen Z,Male,Happy,Biryani (Veg),Veg,Comfort Food,Hyderabadi,Biryani (Veg) is recommended because it aligns with the comfort-seeking mood.
+383,Millennial,Female,Fear,Paneer Tikka,Veg,Festive Food,Punjabi,Paneer Tikka is recommended because it aligns with the stressed mood.
+384,Boomer,Male,Happy + Surprise,Jalebi,Veg,Dessert,North Indian,Jalebi is recommended because it aligns with the romantic mood.
+385,Millennial,Male,Disgust,Biryani (Veg),Veg,Comfort Food,Hyderabadi,Biryani (Veg) is recommended because it aligns with the bored mood.
+386,Boomer,Female,Angry,Butter Chicken,Non-Veg,Comfort Food,Punjabi,Butter Chicken is recommended because it aligns with the angry mood.
+387,Millennial,Male,Fear,Dal Chawal,Veg,Homemade Meal,All India,Dal Chawal is recommended because it aligns with the stressed mood.
+388,Boomer,Male,Surprise,Fish Curry Rice,Non-Veg,Homemade Meal,Coastal,Fish Curry Rice is recommended because it aligns with the energetic mood.
+389,Gen X,Female,Sad,Biryani (Chicken),Non-Veg,Comfort Food,Hyderabadi,Biryani (Chicken) is recommended because it aligns with the homesick mood.
+390,Millennial,Male,Happy,Biryani (Chicken),Non-Veg,Comfort Food,Hyderabadi,Biryani (Chicken) is recommended because it aligns with the comfort-seeking mood.
+391,Millennial,Female,Sad,Dal Chawal,Veg,Homemade Meal,All India,Dal Chawal is recommended because it aligns with the homesick mood.
+392,Gen X,Female,Disgust,Dal Chawal,Veg,Homemade Meal,All India,Dal Chawal is recommended because it aligns with the bored mood.
+393,Millennial,Female,Neutral,Pani Puri,Veg,Street Food,North Indian,Pani Puri is recommended because it aligns with the relaxed mood.
+394,Millennial,Female,Neutral,Khichdi,Veg,Comfort Food,All India,Khichdi is recommended because it aligns with the relaxed mood.
+395,Boomer,Male,Sad,Samosa,Veg,Snack,North Indian,Samosa is recommended because it aligns with the homesick mood.
+396,Boomer,Male,Angry,Filter Coffee,Veg,Beverage,South Indian,Filter Coffee is recommended because it aligns with the angry mood.
+397,Gen Z,Male,Happy,Biryani (Chicken),Non-Veg,Comfort Food,Hyderabadi,Biryani (Chicken) is recommended because it aligns with the happy mood.
+398,Boomer,Male,Angry,Vada Pav,Veg,Street Food,Maharashtrian,Vada Pav is recommended because it aligns with the angry mood.
+399,Gen Z,Male,Fear,Butter Chicken,Non-Veg,Comfort Food,Punjabi,Butter Chicken is recommended because it aligns with the stressed mood.
+400,Gen Z,Male,Surprise,Chai and Pakora,Veg,Comfort Food,North Indian,Chai and Pakora is recommended because it aligns with the energetic mood.
+401,Gen Z,Female,Happy,Chicken Biryani,Non-Veg,Main Course,Mughlai,"Rich, aromatic biryani feels celebratory and lifts the spirit during happy moments."
+402,Millennial,Male,Fear,Masala Chai,Veg,Beverage,North Indian,Warm spiced chai calms nerves and provides instant comfort during stressful times.
+403,Gen X,Female,Sad,Khichdi with Ghee & Papad,Veg,Comfort Food,North Indian,"Soft khichdi with ghee feels like a warm hug from mom, perfect when feeling low."
+404,Boomer,Male,Neutral,Filter Coffee,Veg,Beverage,South Indian,Strong decoction coffee enjoyed slowly is the ultimate way to unwind.
+405,Gen Z,Non-binary,Surprise,Vada Pav,Veg,Street Food,Maharashtrian,"Spicy, crispy vada pav gives an instant energy kick for energetic moods."
+406,Millennial,Female,Happy + Surprise,Butter Chicken with Naan,Non-Veg,Main Course,Punjabi,"Creamy, indulgent butter chicken shared with someone special feels romantic."
+407,Gen X,Male,Disgust,Pani Puri,Veg,Street Food,Pan-India,Explosive flavors of pani puri instantly cure boredom and bring excitement.
+408,Gen Z,Female,Sad,Rasgulla,Veg,Dessert,Bengali,"Soft, syrupy rasgulla reminds of home and childhood sweets."
+409,Millennial,Male,Angry,Pav Bhaji,Veg,Street Food,Maharashtrian,"Spicy, buttery pav bhaji helps vent out anger through bold flavors."
+410,Boomer,Female,Happy,Dal Chawal with Achaar,Veg,Homemade Meal,Pan-India,Simple dal chawal with pickle feels like home-cooked love and comfort.
+411,Gen Z,Male,Happy,Hyderabadi Mutton Biryani,Non-Veg,Main Course,South Indian,"Layered, spicy mutton biryani is perfect for celebrations and joyful moods."
+412,Millennial,Female,Fear,Adrak Wali Chai,Veg,Beverage,North Indian,Ginger tea soothes headaches and reduces stress instantly.
+413,Gen X,Non-binary,Sad,Palak Paneer with Roti,Veg,Comfort Food,Punjabi,Creamy spinach and paneer provides gentle nourishment when feeling down.
+414,Boomer,Male,Neutral,Lassi (Sweet),Veg,Beverage,Punjabi,"Cool, creamy lassi is refreshing and perfect for lazy afternoons."
+415,Gen Z,Female,Surprise,Masala Dosa,Veg,Main Course,South Indian,Crispy dosa with spicy chutney gives a fiery energy boost.
+416,Millennial,Male,Happy + Surprise,Shahi Paneer,Veg,Main Course,Mughlai,"Rich, royal shahi paneer feels luxurious and romantic."
+417,Gen X,Female,Disgust,Sev Puri,Veg,Street Food,Maharashtrian,"Tangy, crunchy sev puri brings instant fun and excitement."
+418,Gen Z,Male,Sad,Idli Sambhar,Veg,Homemade Meal,South Indian,Soft idlis soaked in sambhar remind of comforting breakfasts at home.
+419,Millennial,Female,Angry,Chicken 65,Non-Veg,Street Food,South Indian,"Fiery, spicy chicken 65 matches and calms angry moods."
+420,Boomer,Male,Happy,Rajma Chawal,Veg,Comfort Food,North Indian,Hearty rajma chawal feels deeply satisfying and comforting.
+421,Gen Z,Female,Happy,Gulab Jamun,Veg,Dessert,Pan-India,"Warm, syrupy gulab jamun is pure joy in every bite."
+422,Millennial,Male,Fear,Peppermint Chai,Veg,Beverage,North Indian,Cooling peppermint in chai helps reduce tension and stress.
+423,Gen X,Female,Sad,Moong Dal Khichdi,Veg,Comfort Food,Pan-India,Light moong dal khichdi is easy on the stomach when feeling emotional.
+424,Boomer,Female,Neutral,Thandai,Veg,Beverage,North Indian,Cooling thandai with nuts and spices is perfect for relaxed evenings.
+425,Gen Z,Non-binary,Surprise,Chole Bhature,Veg,Street Food,Punjabi,"Heavy, spicy chole bhature fuels high-energy moods."
+426,Millennial,Female,Happy + Surprise,Kesar Pista Kulfi,Veg,Dessert,North Indian,Fragrant saffron-pistachio kulfi feels indulgent and romantic.
+427,Gen X,Male,Disgust,Bhel Puri,Veg,Street Food,Maharashtrian,Sweet-sour-crunchy bhel instantly kills boredom.
+428,Gen Z,Female,Sad,Poha,Veg,Homemade Meal,Maharashtrian,"Light, flavorful poha reminds of lazy weekend mornings at home."
+429,Millennial,Male,Angry,Tandoori Chicken,Non-Veg,Main Course,Punjabi,"Charred, spicy tandoori chicken matches intense angry energy."
+430,Boomer,Female,Happy,Aloo Paratha with Dahi,Veg,Homemade Meal,Punjabi,Stuffed aloo paratha with curd feels warm and comforting.
+431,Gen Z,Male,Happy,Paneer Tikka Masala,Non-Veg,Main Course,Punjabi,Smoky paneer tikka in rich gravy feels festive and joyful.
+432,Millennial,Female,Fear,Badam Milk,Veg,Beverage,North Indian,Warm almond milk calms the mind and reduces stress.
+433,Gen X,Male,Sad,Vegetable Biryani,Veg,Main Course,Hyderabadi,Fragrant veg biryani with raita provides gentle comfort.
+434,Boomer,Male,Neutral,Masala Chai & Biscuits,Veg,Beverage,North Indian,Evening chai with Parle-G is the ultimate relaxation ritual.
+435,Gen Z,Female,Surprise,Jaljeera,Veg,Beverage,North Indian,Tangy jaljeera refreshes and energizes instantly.
+436,Millennial,Non-binary,Happy + Surprise,Fish Curry with Rice,Non-Veg,Homemade Meal,Bengali,Spicy-sour Bengali fish curry feels intimate when shared.
+437,Gen X,Female,Disgust,Dabeli,Veg,Street Food,Gujarati,Sweet-spicy dabeli with peanuts brings fun flavors.
+438,Gen Z,Male,Sad,Upma,Veg,Homemade Meal,South Indian,Simple upma with ghee reminds of caring breakfasts at home.
+439,Millennial,Female,Angry,Chicken Lollipop,Non-Veg,Indo-Chinese,"Crispy, spicy lollipops help release frustration.",
+440,Boomer,Male,Happy,Sabudana Khichdi,Veg,Comfort Food,Maharashtrian,"Soft, soothing sabudana khichdi feels gentle and comforting."
+441,Gen Z,Female,Happy,Rasmalai,Veg,Dessert,Bengali,Soft rasmalai in sweet milk feels like pure celebration.
+442,Millennial,Male,Fear,Tulsi Tea,Veg,Beverage,Pan-India,Holy basil tea reduces anxiety and brings calm.
+443,Gen X,Female,Sad,Curd Rice,Veg,Comfort Food,South Indian,Cool curd rice with pomegranate feels soothing and familiar.
+444,Boomer,Female,Neutral,Nimbu Paani,Veg,Beverage,Pan-India,Simple shikanji refreshes and relaxes on warm days.
+445,Gen Z,Male,Surprise,Pav Bhaji (extra butter),Veg,Street Food,Maharashtrian,Loaded pav bhaji gives a powerful spicy energy rush.
+446,Millennial,Female,Happy + Surprise,Paneer Butter Masala,Non-Veg,Main Course,Punjabi,Velvety paneer butter masala feels rich and romantic.
+447,Gen X,Male,Disgust,Aloo Tikki Chaat,Veg,Street Food,North Indian,Tangy aloo tikki chaat brings instant excitement.
+448,Gen Z,Female,Sad,Thepla with Chundo,Veg,Homemade Meal,Gujarati,Gujarati thepla with sweet pickle reminds of home travels.
+449,Millennial,Male,Angry,Mutton Rogan Josh,Non-Veg,Main Course,Kashmiri,Intense spicy mutton dish matches fiery moods.
+450,Boomer,Female,Happy,Dal Makhani with Jeera Rice,Veg,Comfort Food,Punjabi,Slow-cooked creamy dal makhani feels deeply comforting.
+451,Gen Z,Non-binary,Happy,Mysore Pak,Veg,Dessert,South Indian,Rich ghee mysore pak melts in the mouth with joy.
+452,Millennial,Female,Fear,Ashwagandha Milk,Veg,Beverage,Ayurvedic,Calming ashwagandha milk reduces stress naturally.
+453,Gen X,Male,Sad,Pesarattu,Veg,Main Course,Andhra,Green moong dosa feels light yet nourishing when sad.
+454,Boomer,Male,Neutral,Coconut Ladoo,Veg,Dessert,South Indian,Sweet coconut ladoos enjoyed slowly promote relaxation.
+455,Gen Z,Female,Surprise,Frankie Roll (Chicken),Non-Veg,Street Food,Mumbai,Spicy chicken frankie gives quick energy on the go.
+456,Millennial,Male,Happy + Surprise,Chicken Korma,Non-Veg,Main Course,Mughlai,"Mild, creamy korma feels sophisticated and romantic."
+457,Gen X,Female,Disgust,Momos with Chilli Sauce,Veg,Street Food,Indo-Tibetan,Steamy momos with fiery chutney cure boredom fast.
+458,Gen Z,Male,Sad,Undhiyu with Puri,Veg,Festive Food,Gujarati,Winter undhiyu reminds of family gatherings back home.
+459,Millennial,Female,Angry,Andhra Chicken Curry,Non-Veg,Main Course,Andhra,Eye-wateringly spicy Andhra curry matches angry energy.
+460,Boomer,Male,Happy,Gajar Ka Halwa,Veg,Dessert,North Indian,Warm carrot halwa feels like grandmother’s love.
+461,Gen Z,Female,Happy,Kolkata Chicken Biryani,Non-Veg,Main Course,Bengali,Potato-filled Kolkata biryani with egg feels celebratory.
+462,Millennial,Male,Fear,Jeera Aloo,Veg,Comfort Food,North Indian,Simple cumin potatoes are easy to digest when stressed.
+463,Gen X,Female,Sad,Tomato Soup with Pav,Veg,Comfort Food,Indo-Italian,Warm tomato soup feels gentle and comforting.
+464,Boomer,Female,Neutral,Rose Milk,Veg,Beverage,South Indian,Chilled rose milk is soothing and relaxing.
+465,Gen Z,Male,Surprise,Samosa,Veg,Street Food,North Indian,Crispy hot samosa gives instant energy boost.
+466,Millennial,Non-binary,Happy + Surprise,Shahi Tukda,Veg,Dessert,Mughlai,Rich bread pudding with rabri feels royal and romantic.
+467,Gen X,Male,Disgust,Kachori with Chutney,Veg,Street Food,Rajasthani,Flaky spicy kachori brings excitement to dull moments.
+468,Gen Z,Female,Sad,Dhokla,Veg,Homemade Meal,Gujarati,Soft spongy dhokla reminds of Gujarati breakfasts.
+469,Millennial,Male,Angry,Pork Vindaloo,Non-Veg,Main Course,Goan,Fiery tangy vindaloo matches intense anger.
+470,Boomer,Female,Happy,Phirni,Veg,Dessert,North Indian,Cool creamy phirni in earthen pots feels comforting.
+471,Gen Z,Male,Happy,Jalebi with Rabri,Veg,Dessert,North Indian,Crispy hot jalebi in thick rabri is pure happiness.
+472,Millennial,Female,Fear,Brahmi Tea,Veg,Beverage,Ayurvedic,Memory herb brahmi tea calms racing thoughts.
+473,Gen X,Male,Sad,Rava Kesari,Veg,Dessert,South Indian,Warm semolina sweet provides gentle comfort.
+474,Boomer,Male,Neutral,Buttermilk (Chaas),Veg,Beverage,Gujarati,Spiced chaas cools body and mind.
+475,Gen Z,Female,Surprise,Chicken Shawarma Roll,Non-Veg,Street Food,Indo-Arabic,Juicy shawarma gives protein-packed energy.
+476,Millennial,Female,Happy + Surprise,Malai Kofta,Veg,Main Course,Punjabi,Creamy stuffed koftas feel luxurious for date nights.
+477,Gen X,Male,Disgust,Papdi Chaat,Veg,Street Food,North Indian,Crunchy tangy papdi chaat instantly lifts boredom.
+478,Gen Z,Non-binary,Sad,Misal Pav,Veg,Street Food,Maharashtrian,Spicy Maharashtrian misal reminds of Pune mornings.
+479,Millennial,Male,Angry,Egg Bhurji with Pav,Veg,Street Food,Mumbai,Spicy scrambled eggs help vent frustration.
+480,Boomer,Female,Happy,Baingan Bharta,Veg,Homemade Meal,Punjabi,Smoky mashed eggplant feels rustic and comforting.
+481,Gen Z,Female,Happy,Punugulu,Veg,Street Food,Andhra,Crispy lentil fritters are perfect for joyful snacking.
+482,Millennial,Male,Fear,Saunf Water,Veg,Beverage,Pan-India,Fennel water aids digestion and reduces stress.
+483,Gen X,Female,Sad,Panta Bhat with Aloo Chokh,Veg,Homemade Meal,Bengali,Fermented rice with potato feels nostalgic and soothing.
+484,Boomer,Male,Neutral,Kesar Badam Milk,Veg,Beverage,North Indian,Saffron-almond milk is luxurious for unwinding.
+485,Gen Z,Male,Surprise,Paneer Roll,Veg,Street Food,North Indian,Spicy paneer kathi roll fuels high energy.
+486,Millennial,Female,Happy + Surprise,Dum Aloo Kashmiri,Veg,Main Course,Kashmiri,Mild fragrant dum aloo feels romantic and royal.
+487,Gen X,Female,Disgust,Falooda,Veg,Dessert,Mumbai,Layered falooda with ice cream cures boredom deliciously.
+488,Gen Z,Male,Sad,Appam with Stew,Veg,Main Course,Kerala,Fluffy appam with coconut stew reminds of Kerala mornings.
+489,Millennial,Female,Angry,Chicken Chettinad,Non-Veg,Main Course,Tamil Nadu,Peppery Chettinad chicken matches fiery moods.
+490,Boomer,Male,Happy,Paruppu Payasam,Veg,Dessert,South Indian,Warm lentil-jaggery payasam feels deeply comforting.
+491,Gen Z,Female,Happy,Mutton Biryani (Lucknowi),Non-Veg,Main Course,Awadhi,Fragrant subtle Lucknowi biryani feels celebratory.
+492,Millennial,Male,Fear,Valerian Root Tea,Veg,Beverage,Ayurvedic,Natural relaxant tea helps ease tension.
+493,Gen X,Male,Sad,Kheer,Veg,Dessert,North Indian,Slow-cooked rice pudding brings childhood comfort.
+494,Boomer,Female,Neutral,Jaljeera Soda,Veg,Beverage,North Indian,Fizzy tangy jaljeera refreshes and relaxes.
+495,Gen Z,Non-binary,Surprise,Akki Rotti,Veg,Main Course,Karnataka,Crispy rice flour rotti gives solid energy.
+496,Millennial,Female,Happy + Surprise,Rogan Josh with Naan,Non-Veg,Main Course,Kashmiri,Aromatic mutton rogan josh feels intimate and special.
+497,Gen X,Male,Disgust,Masala Peanut Chaat,Veg,Street Food,Pan-India,Spicy peanuts with onion-tomato instantly excite.
+498,Gen Z,Female,Sad,Bisi Bele Bath,Veg,Homemade Meal,Karnataka,Spicy lentil-rice dish reminds of Bangalore canteens.
+499,Millennial,Male,Angry,Gongura Chicken,Non-Veg,Main Course,Andhra,Sour-spicy sorrel chicken matches intense emotions.
+500,Boomer,Female,Happy,Aloo Methi,Veg,Homemade Meal,North Indian,Simple potato-fenugreek curry feels like home.
+501,Gen Z,Male,Happy,Peda,Veg,Dessert,Mathura,Soft milk peda melts with joy in the mouth.
+502,Millennial,Female,Fear,Lavender Chai,Veg,Beverage,Fusion,Floral lavender in chai promotes deep calm.
+503,Gen X,Female,Sad,Poha with Sev,Veg,Homemade Meal,Maharashtrian,Light poha with crunchy sev feels gentle.
+504,Boomer,Male,Neutral,Cold Coffee with Ice Cream,Veg,Beverage,Mumbai,Thick cold coffee floats away tension.
+505,Gen Z,Female,Surprise,Chicken Tikka Roll,Non-Veg,Street Food,Punjabi,Smoky chicken tikka in roll fuels energy.
+506,Millennial,Male,Happy + Surprise,Paneer Pasanda,Veg,Main Course,Mughlai,Stuffed paneer in rich gravy feels royal and romantic.
+507,Gen X,Female,Disgust,Khandvi,Veg,Street Food,Gujarati,Rolled gram flour snack brings playful texture.
+508,Gen Z,Male,Sad,Puliogare,Veg,Homemade Meal,Tamil Nadu,Tangy tamarind rice reminds of temple prasadam.
+509,Millennial,Female,Angry,Mirchi Bajji,Non-Veg,Street Food,Hyderabadi,Stuffed chilli fritters match fiery anger.
+510,Boomer,Male,Happy,Shrikhand,Veg,Dessert,Maharashtrian,Creamy saffron yogurt feels indulgent comfort.
+511,Gen Z,Female,Happy,Chicken Malai Tikka,Non-Veg,Starter,Punjabi,Creamy melt-in-mouth tikka feels celebratory.
+512,Millennial,Male,Fear,Cardamom Milk,Veg,Beverage,North Indian,Warm elaichi doodh induces sleep and calm.
+513,Gen X,Male,Sad,Dal Tadka with Rice,Veg,Comfort Food,Punjabi,Simple yellow dal feels familiar and soothing.
+514,Boomer,Female,Neutral,Mango Lassi,Veg,Beverage,Punjabi,Sweet mango lassi is perfect for lazy summer days.
+515,Gen Z,Male,Surprise,Schezwan Fried Rice (Chicken),Non-Veg,Indo-Chinese,Spicy Indo-Chinese rice gives instant kick.,
+516,Millennial,Female,Happy + Surprise,Kaju Katli,Veg,Dessert,Pan-India,Smooth cashew fudge feels luxurious and romantic.
+517,Gen X,Male,Disgust,Dahi Vada,Veg,Street Food,North Indian,Soft lentil dumplings in yogurt cure boredom.
+518,Gen Z,Female,Sad,Rava Dosa,Veg,Main Course,South Indian,Crispy instant rava dosa reminds of home dinners.
+519,Millennial,Male,Angry,Prawn Gassi,Non-Veg,Main Course,Mangalorean,Spicy coconut prawn curry matches intense moods.
+520,Boomer,Female,Happy,Lauki Chana Dal,Veg,Homemade Meal,North Indian,Light bottle gourd dal feels easy and comforting.
+521,Gen Z,Non-binary,Happy,Motichoor Ladoo,Veg,Dessert,North Indian,Tiny boondi balls bring festive joy.
+522,Millennial,Female,Fear,Chamomile Green Tea,Veg,Beverage,Fusion,Soothing chamomile helps melt away stress.
+523,Gen X,Female,Sad,Pongal,Veg,Homemade Meal,Tamil Nadu,Sweet or salty pongal feels nurturing.
+524,Boomer,Male,Neutral,Solkadhi,Veg,Beverage,Konkani,Cool kokum drink relaxes body and mind.
+525,Gen Z,Female,Surprise,Egg Roll,Non-Veg,Street Food,Kolkata,Spicy Kolkata egg roll fuels late-night energy.
+526,Millennial,Male,Happy + Surprise,Lobster Butter Garlic,Non-Veg,Main Course,Goan,Rich seafood dish feels special and romantic.
+527,Gen X,Female,Disgust,Gobi 65,Veg,Street Food,South Indian,Crispy cauliflower 65 brings excitement.
+528,Gen Z,Male,Sad,Chakli,Veg,Snack,Maharashtrian,Crispy rice spirals remind of Diwali at home.
+529,Millennial,Female,Angry,Beef Chilli,Non-Veg,Indo-Chinese,Spicy beef chilli helps vent strong emotions.,
+530,Boomer,Male,Happy,Makki di Roti Sarson da Saag,Veg,Comfort Food,Punjabi,Rustic winter meal feels deeply comforting.
+531,Gen Z,Female,Happy,Paneer Biryani,Veg,Main Course,Hyderabadi,Fragrant paneer biryani feels festive.
+532,Millennial,Male,Fear,Ajwain Water,Veg,Beverage,Ayurvedic,Carom seed water eases tension and bloating.
+533,Gen X,Male,Sad,Vegetable Pulao,Veg,Homemade Meal,North Indian,Mild fragrant pulao feels gentle when low.
+534,Boomer,Female,Neutral,Aam Panna,Veg,Beverage,North Indian,Tangy raw mango drink cools and relaxes.
+535,Gen Z,Male,Surprise,Chicken Seekh Kebab,Non-Veg,Starter,Mughlai,Juicy kebabs give protein energy boost.
+536,Millennial,Female,Happy + Surprise,Anjeer Barfi,Veg,Dessert,Pan-India,Rich fig barfi feels luxurious and romantic.
+537,Gen X,Male,Disgust,Ragda Pattice,Veg,Street Food,Maharashtrian,Spicy potato patties with peas cure boredom.
+538,Gen Z,Female,Sad,Lemon Rice,Veg,Homemade Meal,South Indian,Tangy lemon rice reminds of packed lunch boxes.
+539,Millennial,Male,Angry,Kolhapuri Mutton,Non-Veg,Main Course,Maharashtrian,Fiery Kolhapuri curry matches angry heat.
+540,Boomer,Female,Happy,Moong Dal Halwa,Veg,Dessert,North Indian,Warm lentil halwa feels indulgent comfort.
+541,Gen Z,Male,Happy,Rabri Falooda,Veg,Dessert,Hyderabadi,Layered dessert brings pure celebration joy.
+542,Millennial,Female,Fear,Haldi Doodh,Veg,Beverage,Ayurvedic,Golden turmeric milk heals and calms.
+543,Gen X,Female,Sad,Olan,Veg,Homemade Meal,Kerala,Mild coconut milk curry feels soothing.
+544,Boomer,Male,Neutral,Nariyal Paani,Veg,Beverage,Pan-India,Fresh tender coconut water instantly relaxes.
+545,Gen Z,Female,Surprise,Banana Leaf Chicken Fry,Non-Veg,Street Food,Andhra,Spicy banana leaf chicken gives fiery energy.
+546,Millennial,Male,Happy + Surprise,Paneer Lababdar,Veg,Main Course,Punjabi,Rich tomato-cream paneer feels romantic.
+547,Gen X,Female,Disgust,Pav Sandwich,Veg,Street Food,Mumbai,Loaded vegetable sandwich brings fun flavors.
+548,Gen Z,Male,Sad,Avial,Veg,Homemade Meal,Kerala,Mixed vegetables in coconut feels like Onam sadhya.
+549,Millennial,Female,Angry,Gobi Manchurian,Non-Veg,Indo-Chinese,Crispy spicy gobi helps release anger.,
+550,Boomer,Male,Happy,Tomato Rasam,Veg,Homemade Meal,South Indian,Peppery tangy rasam feels healing and comforting.
+551,Gen Z,Female,Happy,Chicken Kebab Platter,Non-Veg,Starter,Mughlai,Variety of kebabs feels celebratory.
+552,Millennial,Male,Fear,Mint Coriander Cooler,Veg,Beverage,North Indian,Fresh green cooler instantly calms.
+553,Gen X,Male,Sad,Sambar Rice,Veg,Homemade Meal,South Indian,Comforting sambar sadam feels nurturing.
+554,Boomer,Female,Neutral,Panha,Veg,Beverage,Maharashtrian,Raw mango jaggery drink cools and relaxes.
+555,Gen Z,Male,Surprise,Punjabi Samosa Chaat,Veg,Street Food,Punjabi,Loaded samosa chaat gives spicy energy.
+556,Millennial,Female,Happy + Surprise,Badam Halwa,Veg,Dessert,South Indian,Warm almond halwa feels rich and romantic.
+557,Gen X,Male,Disgust,Cheese Pav Bhaji,Veg,Street Food,Mumbai,Extra cheesy pav bhaji brings excitement.
+558,Gen Z,Female,Sad,Beetroot Thoran,Veg,Homemade Meal,Kerala,Simple coconut beetroot reminds of home side dishes.
+559,Millennial,Male,Angry,Pepper Chicken,Non-Veg,Main Course,Chettinad,Intensely peppery chicken matches angry mood.
+560,Boomer,Female,Happy,Pal Payasam,Veg,Dessert,Kerala,Slow-cooked milk rice payasam feels comforting.
+561,Gen Z,Non-binary,Happy,Ladoo (Besan),Veg,Dessert,North Indian,Golden besan ladoo brings festive joy.
+562,Millennial,Female,Fear,Rose Lassi,Veg,Beverage,Punjabi,Cooling rose lassi reduces stress.
+563,Gen X,Female,Sad,Methi Thepla,Veg,Homemade Meal,Gujarati,Soft methi thepla feels gentle and familiar.
+564,Boomer,Male,Neutral,Bel Sherbet,Veg,Beverage,North Indian,Wood apple drink refreshes and relaxes.
+565,Gen Z,Female,Surprise,Chicken Kathi Roll,Non-Veg,Street Food,Kolkata,Spicy Kolkata chicken roll fuels energy.
+566,Millennial,Male,Happy + Surprise,Nalli Nihari,Non-Veg,Main Course,Awadhi,Slow-cooked rich nihari feels romantic.
+567,Gen X,Female,Disgust,Sev Tameta,Veg,Homemade Meal,Gujarati,Sweet-sour tomato sev brings playful taste.
+568,Gen Z,Male,Sad,Paruppu Sadam,Veg,Homemade Meal,Tamil Nadu,Lentil rice with ghee reminds of amma’s cooking.
+569,Millennial,Female,Angry,Veg Kolhapuri,Non-Veg,Main Course,Maharashtrian,Fiery red curry matches intense anger.
+570,Boomer,Male,Happy,Aloo Posto,Veg,Comfort Food,Bengali,Poppy seed potatoes feel dreamy and comforting.
+571,Gen Z,Female,Happy,Double Ka Meetha,Veg,Dessert,Hyderabadi,Rich bread sweet feels celebratory.
+572,Millennial,Male,Fear,Ginger Lemon Honey Tea,Veg,Beverage,Ayurvedic,Soothing drink calms throat and mind.
+573,Gen X,Male,Sad,Mor Kuzhu,Veg,Homemade Meal,Kerala,Spiced buttermilk porridge feels healing.
+574,Boomer,Female,Neutral,Vetiver Water,Veg,Beverage,South Indian,Fragrant khus water cools and calms.
+575,Gen Z,Male,Surprise,Pandi Curry,Non-Veg,Main Course,Coorg,Spicy Coorg pork gives wild energy.
+576,Millennial,Female,Happy + Surprise,Paneer Reshmi Kebab,Non-Veg,Starter,Awadhi,Silky paneer kebabs feel romantic.
+577,Gen X,Male,Disgust,Dahi Puri,Veg,Street Food,Mumbai,Cool tangy puris burst with excitement.
+578,Gen Z,Female,Sad,Nei Appam,Veg,Dessert,Kerala,Ghee-fried sweet appam reminds of temple offerings.
+579,Millennial,Male,Angry,Chicken Sukka,Non-Veg,Main Course,Mangalorean,Dry spicy chicken matches fiery mood.
+580,Boomer,Female,Happy,Kootu,Veg,Homemade Meal,Tamil Nadu,Mild vegetable-lentil stew feels comforting.
+581,Gen Z,Male,Happy,Palkova,Veg,Dessert,Tamil Nadu,Milk fudge melts with pure joy.
+582,Millennial,Female,Fear,Amla Juice,Veg,Beverage,Pan-India,Vitamin C rich amla reduces stress hormones.
+583,Gen X,Female,Sad,Jeera Rice with Dal Fry,Veg,Homemade Meal,North Indian,Simple comforting combo when feeling low.
+584,Boomer,Male,Neutral,Kokum Sherbet,Veg,Beverage,Konkani,Tangy red kokum drink deeply relaxes.
+585,Gen Z,Female,Surprise,Chicken Momos,Veg,Street Food,Indo-Tibetan,Spicy steamed momos give quick energy.
+586,Millennial,Male,Happy + Surprise,Gosht Yakhni Pulao,Non-Veg,Main Course,Kashmiri,Mild fragrant mutton pulao feels romantic.
+587,Gen X,Female,Disgust,Masala Vada,Veg,Street Food,South Indian,Crispy lentil vadas bring crunch excitement.
+588,Gen Z,Male,Sad,Injipuli,Veg,Homemade Meal,Kerala,Ginger-tamarind pickle reminds of sadhya.
+589,Millennial,Female,Angry,Bhuna Gosht,Non-Veg,Main Course,Punjabi,Intense spiced mutton matches anger.
+590,Boomer,Male,Happy,Vangi Bath,Veg,Homemade Meal,Karnataka,Spicy eggplant rice feels comforting.
+591,Gen Z,Female,Happy,Cham Cham,Veg,Dessert,Bengali,Spongy sweet with filling brings joy.
+592,Millennial,Male,Fear,Saffron Milk,Veg,Beverage,North Indian,Warm kesar doodh promotes calm sleep.
+593,Gen X,Male,Sad,Akki Rotti with Chutney,Veg,Homemade Meal,Karnataka,Crispy rice rotti feels gentle when sad.
+594,Boomer,Female,Neutral,Badam Sharbat,Veg,Beverage,Hyderabadi,Cool almond drink refreshes deeply.
+595,Gen Z,Male,Surprise,Paneer 65,Veg,Street Food,South Indian,Spicy crispy paneer gives energy kick.
+596,Millennial,Female,Happy + Surprise,Zafrani Kofta,Veg,Main Course,Mughlai,Saffron-infused koftas feel royal and romantic.
+597,Gen X,Male,Disgust,Tandoori Aloo,Veg,Starter,Punjabi,Smoky spiced potatoes bring excitement.
+598,Gen Z,Female,Sad,Pachadi,Veg,Homemade Meal,Kerala,Yogurt vegetable mix reminds of home meals.
+599,Millennial,Male,Angry,Lal Maas,Non-Veg,Main Course,Rajasthani,Fiery red mutton curry matches intense anger.
+600,Boomer,Female,Happy,Kadhi Chawal,Veg,Comfort Food,Gujarati,Tangy yogurt kadhi with rice feels comforting.
+601,Gen Z,Non-binary,Happy,Kesar Rasmalai,Veg,Dessert,Bengali,Saffron rasmalai feels extra celebratory.
+602,Millennial,Female,Fear,Shankhapushpi Syrup,Veg,Beverage,Ayurvedic,Calming herb syrup reduces anxiety.
+603,Gen X,Female,Sad,Rasam Vada,Veg,Comfort Food,South Indian,Crispy vada soaked in rasam feels healing.
+604,Boomer,Male,Neutral,Gulkand Milk,Veg,Beverage,North Indian,Rose preserve milk cools and calms.
+605,Gen Z,Female,Surprise,Chicken Shawarma,Non-Veg,Street Food,Mumbai,Juicy shawarma fuels high energy.
+606,Millennial,Male,Happy + Surprise,Murgh Musallam,Non-Veg,Main Course,Awadhi,Whole spiced chicken feels grand and romantic.
+607,Gen X,Female,Disgust,Churumuri,Veg,Street Food,Karnataka,Puffed rice bhel brings instant fun.
+608,Gen Z,Male,Sad,Maddur Vada,Veg,Street Food,Karnataka,Crispy vada reminds of train journeys home.
+609,Millennial,Female,Angry,Pork Sorpotel,Non-Veg,Main Course,Goan,Spicy tangy pork matches fiery mood.
+610,Boomer,Male,Happy,Chhena Poda,Veg,Dessert,Odisha,Baked cheese cake feels comforting.
+611,Gen Z,Female,Happy,Paan Ice Cream,Veg,Dessert,Fusion,Betel leaf ice cream feels fun and celebratory.
+612,Millennial,Male,Fear,Ashwagandha Ladoo,Veg,Snack,Ayurvedic,Calming adaptogen ladoo reduces stress.
+613,Gen X,Male,Sad,Til Pitha,Veg,Dessert,Assamese,Sesame rice rolls bring gentle comfort.
+614,Boomer,Female,Neutral,Falooda Sev,Veg,Dessert,Mumbai,Cool vermicelli dessert relaxes completely.
+615,Gen Z,Male,Surprise,Chicken Ghee Roast,Non-Veg,Main Course,Mangalorean,Spicy buttery chicken gives power kick.
+616,Millennial,Female,Happy + Surprise,Pista Kulfi,Veg,Dessert,North Indian,Rich pistachio kulfi feels indulgent romance.
+617,Gen X,Male,Disgust,Masala Corn,Veg,Street Food,Pan-India,Spicy butter corn brings instant excitement.
+618,Gen Z,Female,Sad,Pazham Nurukku,Veg,Dessert,Kerala,Caramelized banana reminds of home evenings.
+619,Millennial,Male,Angry,Dum Ka Murgh,Non-Veg,Main Course,Hyderabadi,Slow-cooked spicy chicken matches intensity.
+620,Boomer,Female,Happy,Ada Pradhaman,Veg,Dessert,Kerala,Rich rice ada payasam feels comforting.
+621,Gen Z,Male,Happy,Barfi (Kaju Pista),Veg,Dessert,Pan-India,Layered cashew-pistachio barfi brings joy.
+622,Millennial,Female,Fear,Brahmi Badam Milk,Veg,Beverage,Ayurvedic,Memory herbs calm racing thoughts.
+623,Gen X,Female,Sad,Kanchipuram Idli,Veg,Homemade Meal,Tamil Nadu,Spiced idli feels nurturing and gentle.
+624,Boomer,Male,Neutral,Imli Ka Amlana,Veg,Beverage,Rajasthani,Tamarind spiced drink cools deeply.
+625,Gen Z,Female,Surprise,Aloo Bhujia with Chai,Veg,Snack,Rajasthani,Crunchy spicy bhujia fuels energy.
+626,Millennial,Male,Happy + Surprise,Chicken Changezi,Non-Veg,Main Course,Mughlai,Creamy old Delhi chicken feels romantic.
+627,Gen X,Female,Disgust,Paneer Popcorn,Veg,Street Food,Fusion,Crispy paneer bites bring fun crunch.
+628,Gen Z,Male,Sad,Panta Bhaat,Veg,Homemade Meal,Bengali,Fermented rice with sides feels nostalgic.
+629,Millennial,Female,Angry,Kheema Pav,Non-Veg,Street Food,Mumbai,Spicy minced meat helps vent anger.
+630,Boomer,Male,Happy,Mysore Rasam,Veg,Homemade Meal,Karnataka,Fragrant peppery rasam feels healing.
+631,Gen Z,Female,Happy,Kesar Sandesh,Veg,Dessert,Bengali,Saffron sandesh brings pure celebration.
+632,Millennial,Male,Fear,Jatamansi Tea,Veg,Beverage,Ayurvedic,Nerve-calming herb tea reduces stress.
+633,Gen X,Male,Sad,Elaneer Payasam,Veg,Dessert,Kerala,Tender coconut payasam feels soothing.
+634,Boomer,Female,Neutral,Chia Seed Pudina Water,Veg,Beverage,Fusion,Mint chia water refreshes and calms.
+635,Gen Z,Male,Surprise,Chicken Kolhapuri,Non-Veg,Main Course,Maharashtrian,Fiery curry gives wild energy boost.
+636,Millennial,Female,Happy + Surprise,Murgh Korma,Non-Veg,Main Course,Mughlai,Mild creamy korma feels intimate.
+637,Gen X,Female,Disgust,Sprouts Chaat,Veg,Healthy Meal,Pan-India,Tangy healthy sprouts bring excitement.
+638,Gen Z,Female,Sad,Kumbilappam,Veg,Dessert,Kerala,Steamed jackfruit dumplings remind of home.
+639,Millennial,Male,Angry,Rajasthani Laal Maas,Non-Veg,Main Course,Rajasthani,Red-hot mutton curry matches fury.
+640,Boomer,Male,Happy,Oats Khichdi,Veg,Healthy Meal,Fusion,Light oats khichdi feels comforting yet healthy.
+641,Gen Z,Non-binary,Happy,Mawa Gujiya,Veg,Dessert,North Indian,Rich filled gujiya brings Holi joy.
+642,Millennial,Female,Fear,Valerian Milk,Veg,Beverage,Ayurvedic,Natural sedative milk promotes calm.
+643,Gen X,Female,Sad,Bengali Mishti Doi,Veg,Dessert,Bengali,Sweet yogurt feels gentle comfort.
+644,Boomer,Male,Neutral,Gondhoraj Lemonade,Veg,Beverage,Bengali,Aromatic lime drink deeply relaxes.
+645,Gen Z,Female,Surprise,Chicken Majestic,Non-Veg,Starter,Hyderabadi,Spicy yogurt-marinated strips give kick.
+646,Millennial,Male,Happy + Surprise,Dal Bukhara,Veg,Main Course,Punjabi,24-hour cooked dal feels luxurious romance.
+647,Gen X,Male,Disgust,Cheese Dosa,Veg,Street Food,South Indian,Gooey cheese dosa brings instant fun.
+648,Gen Z,Male,Sad,Chakka Pradhaman,Veg,Dessert,Kerala,Jackfruit payasam reminds of Onam.
+649,Millennial,Female,Angry,Pork Vindaloo,Non-Veg,Main Course,Goan,Vinegar-spicy pork matches intense anger.
+650,Boomer,Female,Happy,Beetroot Halwa,Veg,Dessert,North Indian,Warm beetroot sweet feels comforting.
+651,Gen Z,Female,Happy,Paan Kulfi,Veg,Dessert,Fusion,Betel-flavored kulfi feels fun celebration.
+652,Millennial,Male,Fear,Ashwagandha Tea,Veg,Beverage,Ayurvedic,Adaptogen tea balances stress hormones.
+653,Gen X,Male,Sad,Kozhikode Chicken Biryani,Non-Veg,Main Course,Malabar,Fragrant Malabar biryani provides gentle joy.
+654,Boomer,Female,Neutral,Rooh Afza Milk,Veg,Beverage,North Indian,Rose syrup milk cools and comforts.
+655,Gen Z,Male,Surprise,Prawn 65,Non-Veg,Starter,South Indian,Spicy crispy prawns give instant energy.
+656,Millennial,Female,Happy + Surprise,Shahi Paneer Korma,Veg,Main Course,Mughlai,Royal paneer dish feels romantic.
+657,Gen X,Female,Disgust,Mumbai Vada Pav,Veg,Street Food,Maharashtrian,Iconic vada pav brings instant excitement.
+658,Gen Z,Female,Sad,Pathiri with Chicken Curry,Non-Veg,Homemade Meal,Malabar,Rice pathiri reminds of Kerala Muslim homes.
+659,Millennial,Male,Angry,Mutton Pepper Fry,Non-Veg,Main Course,Chettinad,Pepper-heavy fry matches angry heat.
+660,Boomer,Male,Happy,Arisi Paruppu Payasam,Veg,Dessert,Tamil Nadu,Rice-lentil payasam feels comforting.
+661,Gen Z,Male,Happy,Rava Ladoo,Veg,Dessert,South Indian,Quick semolina ladoo brings joy.
+662,Millennial,Female,Fear,Passion Flower Tea,Veg,Beverage,Ayurvedic,Natural relaxant tea eases tension.
+663,Gen X,Female,Sad,Tambda Rassa,Veg,Main Course,Maharashtrian,Red spicy mutton curry provides warmth.
+664,Boomer,Male,Neutral,Khas Khas Milk,Veg,Beverage,North Indian,Poppy seed milk induces deep relaxation.
+665,Gen Z,Female,Surprise,Chicken Pakora,Veg,Street Food,Punjabi,Crispy spicy pakoras fuel energy.
+666,Millennial,Male,Happy + Surprise,Galouti Kebab,Non-Veg,Starter,Awadhi,Melt-in-mouth kebabs feel romantic.
+667,Gen X,Male,Disgust,Pav Bhaji Fondue,Veg,Street Food,Fusion,Dipping bread in bhaji brings fun.
+668,Gen Z,Female,Sad,Kozhukattai,Veg,Dessert,Kerala,Steamed rice dumplings remind of Ganesh Chaturthi.
+669,Millennial,Female,Angry,Chicken Xacuti,Non-Veg,Main Course,Goan,Complex spicy curry matches intensity.
+670,Boomer,Male,Happy,Puli Ingi,Veg,Homemade Meal,Kerala,Ginger-tamarind pickle feels comforting.
+671,Gen Z,Non-binary,Happy,Kesar Peda,Veg,Dessert,Mathura,Saffron milk peda brings celebration.
+672,Millennial,Female,Fear,Lavender Milk,Veg,Beverage,Fusion,Floral milk promotes deep calm.
+673,Gen X,Female,Sad,Mambazha Pulissery,Veg,Homemade Meal,Kerala,Ripe mango yogurt curry feels soothing.
+674,Boomer,Male,Neutral,Tender Coconut Shake,Veg,Beverage,South Indian,Creamy coconut shake relaxes instantly.
+675,Gen Z,Female,Surprise,Paneer Tikka,Veg,Starter,Punjabi,Smoky grilled paneer gives energy.
+676,Millennial,Male,Happy + Surprise,Murgh Malaiwala,Non-Veg,Main Course,Punjabi,Creamy chicken feels indulgent romance.
+677,Gen X,Female,Disgust,Aloo Chaat,Veg,Street Food,Delhi,Tangy potato chaat brings excitement.
+678,Gen Z,Male,Sad,Kanji Vada,Veg,Street Food,Rajasthani,Fermented mustard drink with vadas feels nostalgic.
+679,Millennial,Female,Angry,Andhra Chilli Chicken,Non-Veg,Indo-Chinese,Green chilli chicken matches fiery mood.,
+680,Boomer,Male,Happy,Sooji Halwa,Veg,Dessert,North Indian,Warm semolina halwa feels like home.
+681,Gen Z,Female,Happy,Malai Peda,Veg,Dessert,Dharwad,Creamy famous peda brings joy.
+682,Millennial,Male,Fear,Bala Ashwagandha Milk,Veg,Beverage,Ayurvedic,Strength-giving milk reduces stress.
+683,Gen X,Male,Sad,Kheer Kadam,Veg,Dessert,Bengali,Mini rasgulla coated sweet feels gentle.
+684,Boomer,Female,Neutral,Gond Ka Laddoo,Veg,Snack,North Indian,Winter warming ladoo relaxes body.
+685,Gen Z,Male,Surprise,Chicken Reshmi Kebab,Non-Veg,Starter,Awadhi,Silky chicken kebabs fuel energy.
+686,Millennial,Female,Happy + Surprise,Peshawari Paneer,Non-Veg,Main Course,Punjabi,Nutty creamy paneer feels romantic.
+687,Gen X,Male,Disgust,Delhi Chaat Platter,Veg,Street Food,Delhi,Variety of chaats instantly excites.
+688,Gen Z,Female,Sad,Kappa Biryani,Non-Veg,Main Course,Kerala,Tapioca beef biryani reminds of home.
+689,Millennial,Male,Angry,Mutton Chops Fry,Non-Veg,Starter,Hyderabadi,Spicy fried chops match angry mood.
+690,Boomer,Female,Happy,Aval Payasam,Veg,Dessert,Kerala,Beaten rice payasam feels comforting.
+691,Gen Z,Male,Happy,Tirupati Ladoo,Veg,Dessert,Andhra,Famous temple ladoo brings divine joy.
+692,Millennial,Female,Fear,Melatonin Badam Milk,Veg,Beverage,Fusion,Sleep-inducing almond milk calms.
+693,Gen X,Female,Sad,Shorshe Ilish,Non-Veg,Main Course,Bengali,Mustard hilsa brings nostalgic comfort.
+694,Boomer,Male,Neutral,Khus Sherbet,Veg,Beverage,North Indian,Vetiver syrup drink deeply cools.
+695,Gen Z,Female,Surprise,Punjabi Lassi (Salt),Veg,Beverage,Punjabi,Thick salty lassi energizes instantly.
+696,Millennial,Male,Happy + Surprise,Chicken Rara,Non-Veg,Main Course,Punjabi,Rustic spicy chicken feels passionate.
+697,Gen X,Male,Disgust,Corn Bhel,Veg,Street Food,Mumbai,Sweet-spicy corn brings fun crunch.
+698,Gen Z,Female,Sad,Palada Payasam,Veg,Dessert,Kerala,Rice ada pink payasam reminds of feasts.
+699,Millennial,Female,Angry,Pork Bafat,Non-Veg,Main Course,Mangalorean,Spicy Mangalorean curry matches heat.
+700,Boomer,Male,Happy,Kesar Phirni,Veg,Dessert,North Indian,Saffron rice pudding in earthen pots feels comforting.
+701,Gen Z,Female,Happy,Pani Puri,Veg,Street Food,North Indian,Pani puri's tangy burst of flavors brings joy and excitement. It's a playful street snack perfect for celebrating happy moments.
+702,Millennial,Male,Sad,Khichdi,Veg,Comfort Food,North Indian,Khichdi is soft warm and soothing making it ideal for sadness or comfort-seeking moods. Its simplicity provides emotional comfort.
+703,Gen X,Female,Fear,Masala Chai,Veg,Beverage,North Indian,The warmth and familiarity of masala chai helps calm nerves during stressful times. It's a comforting ritual that promotes relaxation.
+704,Boomer,Male,Neutral,Idli Sambar,Veg,Healthy Meal,South Indian,Light nutritious and easy to digest idli sambar is perfect for a relaxed peaceful mood. It nourishes without overwhelming.
+705,Gen Z,Non-binary,Angry,Spicy Chicken 65,Non-Veg,Street Food,South Indian,The intense spice and bold flavors of Chicken 65 help channel anger into sensation. It's a fiery dish that matches intense emotions.
+706,Millennial,Female,Surprise,Vada Pav,Veg,Street Food,Maharashtrian,Quick energizing and filling vada pav provides the fuel needed for an energetic active mood. It's Mumbai's power snack.
+707,Gen X,Male,Disgust,Samosa Chaat,Veg,Street Food,North Indian,The complex layers of textures and flavors in samosa chaat excite the palate. It breaks monotony with tangy spicy sweet combinations.
+708,Boomer,Female,Happy + Surprise,Gulab Jamun,Veg,Dessert,North Indian,Sweet indulgent and often shared gulab jamun creates romantic moments. Its richness symbolizes celebration and affection.
+709,Gen Z,Male,Sad,Poha,Veg,Homemade Meal,West Indian,Poha reminds people of home-cooked breakfast and maternal care. Its simple wholesome taste evokes childhood memories.
+710,Millennial,Female,Happy,Dal Chawal,Veg,Comfort Food,North Indian,Dal chawal is the ultimate comfort combination offering warmth and familiarity. It's the meal that feels like a hug.
+711,Gen X,Female,Happy,Chicken Biryani,Non-Veg,Festive Food,Mughlai,Biryani represents celebration and joy with its aromatic spices and rich flavors. It's the centerpiece of happy gatherings.
+712,Boomer,Male,Sad,Filter Coffee,Veg,Beverage,South Indian,The ritual of sipping filter coffee provides solace during sad moments. Its warmth and aroma offer gentle comfort.
+713,Gen Z,Female,Fear,Maggi Noodles,Veg,Comfort Food,Indo-Chinese,Quick familiar and nostalgic Maggi provides instant comfort during stress. It's a Generation comfort food.
+714,Millennial,Male,Neutral,Coconut Water,Veg,Beverage,South Indian,Naturally cooling and hydrating coconut water promotes relaxation and peace. It's refreshing without being stimulating.
+715,Gen X,Non-binary,Angry,Kolhapuri Mutton,Non-Veg,Comfort Food,Maharashtrian,The fiery spices in Kolhapuri mutton match the intensity of anger. Bold flavors help process strong emotions.
+716,Boomer,Female,Surprise,Masala Dosa,Veg,Healthy Meal,South Indian,Crispy flavorful and nutritious masala dosa provides sustained energy. It's a balanced meal that fuels activity.
+717,Gen Z,Male,Disgust,Bhel Puri,Veg,Street Food,Maharashtrian,The tangy crunchy combination of bhel puri awakens the senses. Its varied textures make eating exciting again.
+718,Millennial,Female,Happy + Surprise,Ras Malai,Veg,Dessert,Bengali,Delicate sweet and luxurious ras malai creates romantic indulgent moments. Its creamy texture is sensually pleasing.
+719,Gen X,Male,Sad,Rajma Chawal,Veg,Homemade Meal,North Indian,Rajma chawal evokes memories of Sunday lunches and family gatherings. It's comfort food that feels like home.
+720,Boomer,Female,Happy,Gajar Halwa,Veg,Dessert,North Indian,Warm sweet and nostalgic gajar halwa provides deep comfort. It's often associated with maternal love and winter warmth.
+721,Gen Z,Female,Happy,Chocolate Brownie with Ice Cream,Veg,Dessert,Indo-Chinese,Decadent and celebratory this dessert amplifies happy moods. The chocolate-ice cream combo creates pure joy.
+722,Millennial,Male,Sad,Chai and Parle-G,Veg,Comfort Food,North Indian,The classic combination of chai and biscuit is deeply comforting during sadness. It's simple familiar and soothing.
+723,Gen X,Female,Fear,Lassi,Veg,Beverage,Punjabi,Cool creamy lassi helps calm stressed nerves with its probiotic benefits. It's refreshing and grounding.
+724,Boomer,Male,Neutral,Dhokla,Veg,Healthy Meal,Gujarati,Light fluffy and nutritious dhokla is perfect for relaxed digestion. It's satisfying without being heavy.
+725,Gen Z,Non-binary,Angry,Andhra Chilli Chicken,Non-Veg,Street Food,South Indian,The extreme heat of Andhra chilli chicken channels anger productively. Spicy food releases endorphins that shift mood.
+726,Millennial,Female,Surprise,Aloo Paratha,Veg,Homemade Meal,Punjabi,Hearty filling aloo paratha provides the energy needed for an active day. It's sustaining comfort that fuels movement.
+727,Gen X,Male,Disgust,Panipuri with Different Chutneys,Veg,Street Food,North Indian,Experimenting with multiple chutney flavors in panipuri adds excitement. Each bite becomes an adventure for the bored palate.
+728,Boomer,Female,Happy + Surprise,Shahi Paneer,Veg,Festive Food,Mughlai,Rich creamy shahi paneer is indulgent and elegant perfect for romantic dinners. Its royal origins add sophistication.
+729,Gen Z,Male,Sad,Amma's Curd Rice,Veg,Homemade Meal,South Indian,Curd rice represents maternal comfort and South Indian home cooking. Its cooling simplicity evokes strong nostalgia.
+730,Millennial,Female,Happy,Chicken Soup,Non-Veg,Comfort Food,North Indian,Warm nourishing chicken soup provides gentle comfort when feeling vulnerable. It's healing both physically and emotionally.
+731,Gen X,Female,Happy,Pav Bhaji,Veg,Street Food,Maharashtrian,Buttery flavorful pav bhaji is perfect for celebratory street food moments. Its richness matches the joy of happy occasions.
+732,Boomer,Male,Sad,Moong Dal Khichdi,Veg,Comfort Food,North Indian,Simple bland moong dal khichdi is gentle on both stomach and emotions during sadness. It's nurturing without overwhelming.
+733,Gen Z,Female,Fear,Green Tea,Veg,Beverage,North Indian,Calming antioxidants in green tea help reduce stress levels. Its gentle warmth soothes without caffeine overload.
+734,Millennial,Male,Neutral,Medu Vada,Veg,Street Food,South Indian,Crispy on outside soft inside medu vada pairs perfectly with relaxed chai time. It's leisurely comfort eating.
+735,Gen X,Non-binary,Angry,Laal Maas,Non-Veg,Comfort Food,Rajasthani,The fiery red chili-based laal maas matches anger's intensity. Bold Rajasthani spices help process strong feelings.
+736,Boomer,Female,Surprise,Upma,Veg,Healthy Meal,South Indian,Nutritious and energizing upma provides sustained fuel for active mornings. It's wholesome breakfast that powers through.
+737,Gen Z,Male,Disgust,Dabeli,Veg,Street Food,Gujarati,Sweet spicy and tangy dabeli offers complex flavors that combat boredom. Each bite provides multiple taste sensations.
+738,Millennial,Female,Happy + Surprise,Malai Kulfi,Veg,Dessert,North Indian,Creamy rich malai kulfi is indulgent and share-worthy perfect for romantic moments. Its traditional charm adds nostalgia.
+739,Gen X,Male,Sad,Thepla with Pickle,Veg,Homemade Meal,Gujarati,Thepla reminds Gujaratis of home-packed travel food and family trips. Its portability and taste evoke powerful memories.
+740,Boomer,Female,Happy,Palak Paneer,Veg,Comfort Food,North Indian,Creamy nutritious palak paneer provides both comfort and nourishment. It's wholesome food that cares for you.
+741,Gen Z,Female,Happy,Chicken Momos,Non-Veg,Street Food,Indo-Chinese,Fun to eat and bursting with flavor chicken momos are perfect happy snacks. The dumpling format adds playfulness.
+742,Millennial,Male,Sad,Khichdi with Ghee,Veg,Comfort Food,North Indian,Extra ghee makes khichdi even more comforting during sadness. The richness provides emotional warmth and care.
+743,Gen X,Female,Fear,Masala Chai with Rusk,Veg,Beverage,North Indian,The ritual of dunking rusk in chai creates a meditative stress-relief moment. Familiar actions soothe anxiety.
+744,Boomer,Male,Neutral,Appam with Stew,Veg,Healthy Meal,South Indian,Light fluffy appam with gentle stew is perfect for relaxed unhurried meals. It's comfort without heaviness.
+745,Gen Z,Non-binary,Angry,Schezwan Fried Rice,Veg,Street Food,Indo-Chinese,Spicy bold schezwan flavors match the fire of anger. The heat provides an outlet for intense emotions.
+746,Millennial,Female,Surprise,Misal Pav,Veg,Street Food,Maharashtrian,Spicy protein-rich misal pav delivers explosive energy and flavor. It's the ultimate power breakfast for active days.
+747,Gen X,Male,Disgust,Kathi Roll,Non-Veg,Street Food,Bengali,Portable flavorful kathi roll breaks food monotony with its wrapped format. Kolkata's innovation makes eating interesting again.
+748,Boomer,Female,Happy + Surprise,Jalebi with Rabri,Veg,Dessert,North Indian,Crispy sweet jalebi paired with creamy rabri creates indulgent romantic sharing. The combination is luxuriously decadent.
+749,Gen Z,Male,Sad,Methi Thepla,Veg,Homemade Meal,Gujarati,Methi thepla evokes memories of mother's cooking and home comfort. Its nutritious warmth feels like family care.
+750,Millennial,Female,Happy,Butter Chicken,Non-Veg,Comfort Food,Mughlai,Rich creamy butter chicken is the ultimate indulgent comfort food. Its popularity makes it universally reassuring.
+751,Gen X,Female,Happy,Dahi Vada,Veg,Street Food,North Indian,Cool tangy dahi vada is refreshing and celebratory perfect for happy moments. The yogurt topping adds festive joy.
+752,Boomer,Male,Sad,Curd Rice,Veg,Homemade Meal,South Indian,Simple cooling curd rice is gentle comfort during emotional lows. Its blandness soothes both body and mind.
+753,Gen Z,Female,Fear,Badam Milk,Veg,Beverage,South Indian,Warm nutty badam milk calms nerves with its natural properties. Almonds provide stress-reducing nutrients and comfort.
+754,Millennial,Male,Neutral,Puttu,Veg,Healthy Meal,South Indian,Light steamed puttu is easy to digest perfect for relaxed mornings. It pairs well with leisurely breakfast rituals.
+755,Gen X,Non-binary,Angry,Vindaloo Pork,Non-Veg,Comfort Food,Goan,The vinegar and spice in Goan vindaloo matches anger's acidity. Bold flavors help externalize internal frustration.
+756,Boomer,Female,Surprise,Pesarattu,Veg,Healthy Meal,South Indian,Protein-packed pesarattu provides sustained energy for active seniors. It's nutritious fuel that supports vitality.
+757,Gen Z,Male,Disgust,Pav Bhaji Fondue,Veg,Street Food,Maharashtrian,Fusion pav bhaji with fondue presentation makes familiar food exciting. Creative serving combats boredom creatively.
+758,Millennial,Female,Happy + Surprise,Phirni,Veg,Dessert,Mughlai,Delicate aromatic phirni served in earthen bowls creates romantic ambiance. Its presentation and taste are both elegant.
+759,Gen X,Male,Sad,Bisi Bele Bath,Veg,Homemade Meal,South Indian,One-pot bisi bele bath represents home cooking and family meals. Its complex flavors evoke Karnataka home memories.
+760,Boomer,Female,Happy,Kheer,Veg,Dessert,North Indian,Sweet creamy kheer provides nostalgic comfort from childhood celebrations. It's dessert that feels like maternal love.
+761,Gen Z,Female,Happy,Tandoori Chicken,Non-Veg,Street Food,Punjabi,Smoky flavorful tandoori chicken is perfect for celebrations and gatherings. Its bold taste amplifies happy moods.
+762,Millennial,Male,Sad,Filter Coffee with Cookies,Veg,Beverage,South Indian,The ritual of slow coffee sipping provides solace during sadness. Adding cookies makes self-care gentle and sweet.
+763,Gen X,Female,Fear,Tulsi Tea,Veg,Beverage,North Indian,Holy basil in tulsi tea naturally reduces stress and anxiety. Its medicinal properties provide calming relief.
+764,Boomer,Male,Neutral,Thali Meal,Veg,Homemade Meal,Gujarati,Complete balanced thali allows relaxed exploration of multiple flavors. It's unhurried eating that celebrates variety.
+765,Gen Z,Non-binary,Angry,Ghost Pepper Wings,Non-Veg,Street Food,Indo-Chinese,Extreme heat from ghost pepper provides intense sensory distraction from anger. Pain and spice become outlets.
+766,Millennial,Female,Surprise,Poori Bhaji,Veg,Homemade Meal,North Indian,Crispy poori with spicy bhaji provides energizing breakfast fuel. The combination is hearty and activating.
+767,Gen X,Male,Disgust,Fusion Dosa Pizza,Veg,Street Food,South Indian,Dosa-pizza fusion breaks food monotony with creative combination. Unexpected pairing makes eating adventurous again.
+768,Boomer,Female,Happy + Surprise,Kaju Katli,Veg,Dessert,North Indian,Silver-wrapped kaju katli represents luxury and celebration perfect for romance. Its elegance suits special moments.
+769,Gen Z,Male,Sad,Thalipeeth,Veg,Homemade Meal,Maharashtrian,Multi-grain thalipeeth represents Maharashtrian home cooking and breakfast traditions. Its wholesome taste evokes family kitchens.
+770,Millennial,Female,Happy,Paneer Tikka,Veg,Street Food,Punjabi,Smoky spiced paneer tikka provides indulgent vegetarian comfort. It's satisfying without being heavy guilt.
+771,Gen X,Female,Happy,Mutton Biryani,Non-Veg,Festive Food,Mughlai,Aromatic mutton biryani is the ultimate celebration food for happy occasions. Its complexity and richness match joyful moods.
+772,Boomer,Male,Sad,Dalia,Veg,Healthy Meal,North Indian,Simple nutritious dalia is gentle comfort for sad vulnerable moments. Its wholesomeness provides quiet care and nourishment.
+773,Gen Z,Female,Fear,Chamomile Tea,Veg,Beverage,North Indian,Naturally calming chamomile helps reduce stress and promotes relaxation. Its gentle nature soothes without stimulation.
+774,Millennial,Male,Neutral,Banana Chips,Veg,Street Food,South Indian,Crispy banana chips make perfect relaxed snacking food. They're light satisfying and require no effort.
+775,Gen X,Non-binary,Angry,Rogan Josh,Non-Veg,Comfort Food,Kashmiri,Rich spicy rogan josh provides intense flavors that match anger's energy. Kashmiri spices offer complex heat.
+776,Boomer,Female,Surprise,Ragi Dosa,Veg,Healthy Meal,South Indian,Nutritious ragi dosa provides iron and energy for active aging. It's wholesome fuel that supports vitality.
+777,Gen Z,Male,Disgust,Chocolate Sandwich Ice Cream,Veg,Dessert,Indo-Chinese,Fun retro ice cream sandwich brings playful excitement to bored moods. Nostalgia makes eating interesting again.
+778,Millennial,Female,Happy + Surprise,Malpua,Veg,Dessert,North Indian,Warm sweet malpua is festive and share-worthy perfect for romantic evenings. Its richness creates indulgent moments together.
+779,Gen X,Male,Sad,Litti Chokha,Veg,Homemade Meal,East Indian,Litti chokha represents Bihari home cooking and regional identity. Its rustic preparation evokes powerful nostalgia.
+780,Boomer,Female,Happy,Sabudana Khichdi,Veg,Comfort Food,Maharashtrian,Light easily digestible sabudana khichdi provides gentle comfort during vulnerability. It's traditionally eaten during fasts for its soothing properties.
+781,Gen Z,Female,Happy,Honey Chilli Potato,Veg,Street Food,Indo-Chinese,Sweet spicy sticky honey chilli potato is fun celebratory street food. Its fusion flavors match youthful happy energy.
+782,Millennial,Male,Sad,Masala Chai with Bun Maska,Veg,Comfort Food,North Indian,The combination of warm chai and buttery bun provides deep comfort during sadness. It's Irani cafe therapy.
+783,Gen X,Female,Fear,Lemon Water,Veg,Beverage,North Indian,Simple refreshing lemon water helps reset during stressful moments. Its cleansing properties provide mental clarity.
+784,Boomer,Male,Neutral,Undhiyu,Veg,Festive Food,Gujarati,Slow-cooked undhiyu is meant for relaxed enjoyment of complex flavors. Its preparation and consumption both require leisure.
+785,Gen Z,Non-binary,Angry,Pepper Chicken,Non-Veg,Street Food,South Indian,Black pepper's sharp heat in pepper chicken channels anger effectively. The spice bite provides emotional release.
+786,Millennial,Female,Surprise,Besan Chilla,Veg,Healthy Meal,North Indian,Protein-rich besan chilla provides quick energy for busy mornings. It's nutritious fuel that's fast to make.
+787,Gen X,Male,Disgust,Pav with Different Bhajis,Veg,Street Food,Maharashtrian,Trying multiple bhaji varieties with pav creates eating adventure. Variety combats food boredom effectively.
+788,Boomer,Female,Happy + Surprise,Sandesh,Veg,Dessert,Bengali,Delicate sweetened sandesh is elegant and refined perfect for romantic gestures. Its subtle flavors suit sophisticated moments.
+789,Gen Z,Male,Sad,Aloo Gobi,Veg,Homemade Meal,North Indian,Simple aloo gobi represents everyday home cooking and comfort. Its familiar spices evoke mother's kitchen memories.
+790,Millennial,Female,Happy,Fish Curry with Rice,Non-Veg,Homemade Meal,Bengali,Bengali fish curry provides deep comfort through familiar regional flavors. It's home food that nurtures soul.
+791,Gen X,Female,Happy,Chole Bhature,Veg,Street Food,Punjabi,Indulgent crispy bhature with spicy chole is celebratory street food. Its richness makes it perfect for happy occasions.
+792,Boomer,Male,Sad,Jeera Rice,Veg,Comfort Food,North Indian,Simple aromatic jeera rice is gentle comfort that doesn't overwhelm. Its simplicity provides calm during sadness.
+793,Gen Z,Female,Fear,Nimbu Pani,Veg,Beverage,North Indian,Refreshing nimbu pani helps cool stress with its hydrating properties. The tang provides an energizing reset.
+794,Millennial,Male,Neutral,Dahi Papdi Chaat,Veg,Street Food,North Indian,Cool tangy dahi papdi chaat is perfect for relaxed snacking. Its layers provide leisurely taste exploration.
+795,Gen X,Non-binary,Angry,Goan Prawn Curry,Non-Veg,Comfort Food,Goan,Spicy tangy Goan prawn curry matches anger with bold coastal flavors. The heat provides satisfying intensity.
+796,Boomer,Female,Surprise,Jowar Roti with Vegetables,Veg,Healthy Meal,Maharashtrian,Nutritious jowar roti provides sustained energy without heaviness. It's wholesome fuel for active lifestyles.
+797,Gen Z,Male,Disgust,Kulfi Falooda,Veg,Dessert,North Indian,Elaborate kulfi falooda with multiple textures makes dessert exciting. Its complexity combats eating boredom.
+798,Millennial,Female,Happy + Surprise,Sheer Khurma,Veg,Dessert,Mughlai,Rich festive sheer khurma creates special romantic moments. Its celebration association adds significance to sharing.
+799,Gen X,Male,Sad,Sambhar Rice,Veg,Homemade Meal,South Indian,One-pot sambhar rice represents daily South Indian home cooking. Its simplicity evokes childhood lunch memories.
+800,Boomer,Female,Happy,Moong Dal Halwa,Veg,Dessert,North Indian,Rich slow-cooked moong dal halwa provides ultimate comfort dessert. Its laborious preparation shows care and love.
+801,Gen Z,Female,Happy,Spring Roll,Veg,Street Food,Indo-Chinese,Crispy fresh spring rolls are fun sharing food for happy gatherings. Their crunch adds celebration to moments.
+802,Millennial,Male,Sad,Chai and Pakora,Veg,Comfort Food,North Indian,Monsoon classic chai-pakora combination provides deep rainy day comfort. It's emotional warmth during sadness.
+803,Gen X,Female,Fear,Ajwain Water,Veg,Beverage,North Indian,Digestive ajwain water helps calm stress-related stomach issues. Its medicinal properties soothe body and mind.
+804,Boomer,Male,Neutral,Pesarattu with Upma,Veg,Healthy Meal,South Indian,Traditional combination of pesarattu-upma is perfect for relaxed South Indian breakfast. It's leisurely nutritious eating.
+805,Gen Z,Non-binary,Angry,Dragon Chicken,Non-Veg,Street Food,Indo-Chinese,Fiery dragon chicken with extreme spice matches anger's intensity. The fusion dish provides bold sensory overload.
+806,Millennial,Female,Surprise,Methi Paratha,Veg,Homemade Meal,North Indian,Iron-rich methi paratha provides nutritious energy for busy days. It's wholesome fuel that sustains activity.
+807,Gen X,Male,Disgust,Raj Kachori,Veg,Street Food,North Indian,Elaborate raj kachori with multiple fillings creates exciting eating experience. Its complexity defeats food boredom.
+808,Boomer,Female,Happy + Surprise,Kesari,Veg,Dessert,South Indian,Golden aromatic kesari is festive and auspicious perfect for celebrations. Its color and sweetness suit romantic occasions.
+809,Gen Z,Male,Sad,Pongal,Veg,Homemade Meal,South Indian,Traditional pongal represents home festivals and family celebrations. Its rice-based comfort evokes Tamil household memories.
+810,Millennial,Female,Happy,Malai Kofta,Veg,Comfort Food,Mughlai,Creamy rich malai kofta provides indulgent vegetarian comfort. Its restaurant quality makes self-care feel special.
+811,Gen X,Female,Happy,Prawn Fry,Non-Veg,Street Food,South Indian,Crispy spiced prawn fry is celebratory coastal food. Its bold flavors match happy festive moods perfectly.
+812,Boomer,Male,Sad,Moong Dal Soup,Veg,Healthy Meal,North Indian,Warm nutritious moong dal soup is gentle healing food for sad moments. Its liquid form provides easy comfort.
+813,Gen Z,Female,Fear,Peppermint Tea,Veg,Beverage,North Indian,Cooling peppermint tea naturally reduces stress and tension. Its refreshing nature calms anxious minds effectively.
+814,Millennial,Male,Neutral,Murukku,Veg,Street Food,South Indian,Crispy crunchy murukku makes perfect relaxed tea-time snacking. It's effortless enjoyment that requires no thought.
+815,Gen X,Non-binary,Angry,Chettinad Chicken,Non-Veg,Comfort Food,South Indian,Intensely spiced Chettinad chicken matches anger with bold pepper heat. The complex spices provide satisfying intensity.
+816,Boomer,Female,Surprise,Nachni Ladoo,Veg,Healthy Meal,Maharashtrian,Nutritious finger millet ladoo provides energy with health benefits. It's traditional fuel for sustained vitality.
+817,Gen Z,Male,Disgust,Paneer Tikka Masala Pizza,Veg,Street Food,Indo-Chinese,Fusion pizza with Indian toppings makes eating adventurous again. Creative combination defeats monotony.
+818,Millennial,Female,Happy + Surprise,Peda,Veg,Dessert,North Indian,Traditional milk peda is sweetness meant for sharing celebrations. Its gifting tradition makes it romantically significant.
+819,Gen X,Male,Sad,Kadhi Chawal,Veg,Homemade Meal,North Indian,Tangy kadhi with rice represents home cooking across North India. Its yogurt base evokes family meal memories.
+820,Boomer,Female,Happy,Rava Kesari,Veg,Dessert,South Indian,Warm ghee-rich rava kesari provides sweet nostalgic comfort. It's prasad-like food that feels spiritually soothing.
+821,Gen Z,Female,Happy,Cheese Garlic Naan,Veg,Street Food,North Indian,Indulgent cheese garlic naan is modern celebratory food. Its fusion appeal matches youthful happy energy perfectly.
+822,Millennial,Male,Sad,Ginger Tea,Veg,Beverage,North Indian,Warming ginger tea provides gentle comfort during emotional lows. Its medicinal properties soothe both cold and sadness.
+823,Gen X,Female,Fear,Coconut Water,Veg,Beverage,South Indian,Naturally hydrating coconut water helps reset during stress. Its cooling properties calm overheated systems mentally.
+824,Boomer,Male,Neutral,Rava Idli,Veg,Healthy Meal,South Indian,Soft fluffy rava idli is perfect for relaxed easy digestion. It's gentle food that requires minimal effort.
+825,Gen Z,Non-binary,Angry,Naga Pork,Non-Veg,Comfort Food,East Indian,Extremely spicy Naga pork with ghost chilies channels intense anger. The northeastern heat provides powerful release.
+826,Millennial,Female,Surprise,Moong Dal Chilla,Veg,Healthy Meal,North Indian,Protein-packed moong dal chilla delivers quick sustained energy. It's nutritious breakfast that powers through mornings.
+827,Gen X,Male,Disgust,Dabeli Tacos,Veg,Street Food,Gujarati,Fusion dabeli in taco form makes familiar food exciting. Creative presentation combats eating boredom effectively.
+828,Boomer,Female,Happy + Surprise,Mohanthaal,Veg,Dessert,Gujarati,Rich besan-based mohanthaal is festive sharing dessert. Its special occasion status makes it perfect for romance.
+829,Gen Z,Male,Sad,Aloo Paratha with Dahi,Veg,Homemade Meal,Punjabi,Classic aloo paratha represents North Indian home breakfast tradition. Its butter and yogurt evoke family mornings.
+830,Millennial,Female,Happy,Chicken Biryani,Non-Veg,Festive Food,Mughlai,Aromatic chicken biryani works for comfort through its celebration association. Its complexity provides indulgent self-care.
+831,Gen X,Female,Happy,Bombay Sandwich,Veg,Street Food,Maharashtrian,Fresh crunchy Bombay sandwich is happy casual street food. Its simplicity and tang match lighthearted moods.
+832,Boomer,Male,Sad,Khichdi with Kadhi,Veg,Comfort Food,Gujarati,Soft khichdi with tangy kadhi doubles the comfort during sadness. The combination is ultimate healing food.
+833,Gen Z,Female,Fear,Rose Milk,Veg,Beverage,South Indian,Cooling rose milk calms stress with its soothing floral notes. Its pink color and sweetness provide gentle comfort.
+834,Millennial,Male,Neutral,Masala Peanuts,Veg,Street Food,South Indian,Crispy masala peanuts make ideal relaxed snacking food. They're satisfying without requiring attention or effort.
+835,Gen X,Non-binary,Angry,Mutton Rogan Josh,Non-Veg,Comfort Food,Kashmiri,Rich spicy mutton rogan josh provides intense satisfying flavors for anger. Its boldness matches emotional intensity.
+836,Boomer,Female,Surprise,Multi-grain Dosa,Veg,Healthy Meal,South Indian,Nutritious multi-grain dosa provides balanced energy for active days. Its health benefits support sustained vitality.
+837,Gen Z,Male,Disgust,Paan Ice Cream,Veg,Dessert,North Indian,Unique paan-flavored ice cream makes dessert exciting and adventurous. Its bold taste combats boredom creatively.
+838,Millennial,Female,Happy + Surprise,Qubani ka Meetha,Veg,Dessert,Mughlai,Apricot-based qubani ka meetha is elegant festive dessert. Its Hyderabadi heritage adds romantic sophistication.
+839,Gen X,Male,Sad,Aloo Matar,Veg,Homemade Meal,North Indian,Simple aloo matar represents everyday home vegetable curry. Its basic comfort evokes mother's daily cooking.
+840,Boomer,Female,Happy,Sweet Lassi,Veg,Beverage,Punjabi,Creamy sweet lassi provides cooling comforting nourishment. Its probiotic richness soothes emotionally and physically.
+841,Gen Z,Female,Happy,Paneer Butter Masala,Veg,Comfort Food,Mughlai,Rich creamy paneer butter masala is indulgent celebration food. Its popularity makes it universally happy eating.
+842,Millennial,Male,Sad,Chai with Marie Biscuit,Veg,Comfort Food,North Indian,Simple chai-biscuit combo provides minimal effort comfort during sadness. Its plainness matches low energy moods
+843,Gen X,Female,Fear,Kokum Sharbat,Veg,Beverage,Maharashtrian,Cooling kokum sharbat naturally reduces body heat and stress. Its tangy refreshment provides instant mental relief.
+844,Boomer,Male,Neutral,Bisibelebath,Veg,Homemade Meal,South Indian,One-pot bisibelebath is perfect for relaxed unhurried eating. Its complex flavors reward slow savoring.
+845,Gen Z,Non-binary,Angry,Chicken Chettinad,Non-Veg,Comfort Food,South Indian,Fiery Chettinad spices in chicken curry match anger's heat. The bold pepper-based masala channels intense emotions.
+846,Millennial,Female,Surprise,Sprouted Moong Salad,Veg,Healthy Meal,North Indian,Fresh protein-rich sprouted moong provides clean energizing fuel. It's light nutrition that doesn't weigh down.
+847,Gen X,Male,Disgust,Pav Bhaji Fondue,Veg,Street Food,Maharashtrian,Interactive fondue-style pav bhaji makes eating playful again. The novel format defeats dinner boredom.
+848,Boomer,Female,Happy + Surprise,Patishapta,Veg,Dessert,Bengali,Delicate crepe-like patishapta filled with coconut is romantic Bengali sweet. Its preparation shows care and special effort.
+849,Gen Z,Male,Sad,Tomato Rice,Veg,Homemade Meal,South Indian,Simple tangy tomato rice represents quick home comfort food. Its ease and flavor evoke maternal quick meals.
+850,Millennial,Female,Happy,Butter Naan with Dal Makhani,Veg,Comfort Food,Punjabi,The combination of butter naan and dal makhani is ultimate Punjabi comfort. Its richness provides deep satisfaction.
+851,Gen X,Female,Happy,Fish Fry,Non-Veg,Street Food,Goan,Crispy golden fish fry is celebratory coastal food. Its texture and spice match happy beach-side moods.
+852,Boomer,Male,Sad,Vegetable Khichdi,Veg,Comfort Food,North Indian,Mild vegetable khichdi is gentle on digestion during emotional distress. Its simplicity provides quiet comfort.
+853,Gen Z,Female,Fear,Aam Panna,Veg,Beverage,North Indian,Cooling aam panna with raw mango helps beat stress and heat. Its tangy sweetness refreshes tired minds.
+854,Millennial,Male,Neutral,Kachori,Veg,Street Food,North Indian,Flaky spiced kachori makes perfect relaxed tea-time indulgence. It's satisfying without requiring much thought.
+855,Gen X,Non-binary,Angry,Gongura Mutton,Non-Veg,Comfort Food,South Indian,Sour spicy gongura mutton provides intense Andhra flavors for anger. The unique tanginess channels frustration effectively.
+856,Boomer,Female,Surprise,Oats Idli,Veg,Healthy Meal,South Indian,Fiber-rich oats idli provides nutritious energy for active seniors. It's modern healthy twist on traditional fuel.
+857,Gen Z,Male,Disgust,Sushi Dosa Roll,Veg,Street Food,South Indian,Creative sushi-style dosa rolls make breakfast exciting fusion. The presentation combats food monotony innovatively.
+858,Millennial,Female,Happy + Surprise,Badam Halwa,Veg,Dessert,North Indian,Labor-intensive badam halwa shows love through effort and richness. Its luxurious texture suits romantic occasions.
+859,Gen X,Male,Sad,Aloo Posto,Veg,Homemade Meal,Bengali,Unique poppy seed-based aloo posto represents Bengali home cooking. Its distinctive flavor evokes strong regional nostalgia.
+860,Boomer,Female,Happy,Chicken Khichdi,Non-Veg,Comfort Food,North Indian,Protein-enriched chicken khichdi provides nourishing comfort when vulnerable. It's healing food that cares deeply.
+861,Gen Z,Female,Happy,Chocolate Samosa,Veg,Dessert,North Indian,Fun fusion chocolate samosa is playful celebration dessert. Its unexpected filling makes happy moments more joyful.
+862,Millennial,Male,Sad,Masala Chai with Ajwain Paratha,Veg,Comfort Food,North Indian,Warm chai with digestive ajwain paratha soothes sad upset stomachs. The combination provides gentle care.
+863,Gen X,Female,Fear,Buttermilk,Veg,Beverage,South Indian,Probiotic-rich buttermilk cools stress and aids digestion naturally. Its simplicity provides calming hydration.
+864,Boomer,Male,Neutral,Poha with Jalebi,Veg,Street Food,North Indian,Sweet-savory poha-jalebi combination is perfect leisurely breakfast. Indore's tradition makes relaxed eating special.
+865,Gen Z,Non-binary,Angry,Bhut Jolokia Chicken,Non-Veg,Street Food,East Indian,Ghost pepper chicken provides extreme heat outlet for intense anger. The pain-spice combo redirects emotional energy.
+866,Millennial,Female,Surprise,Ragi Mudde,Veg,Healthy Meal,South Indian,Nutritious finger millet ragi mudde provides sustained rural energy. It's wholesome Karnataka fuel for activity.
+867,Gen X,Male,Disgust,Dahi Ke Kebab,Veg,Street Food,North Indian,Creamy unique dahi kebabs offer interesting texture variety. Their novelty makes vegetarian eating exciting again.
+868,Boomer,Female,Happy + Surprise,Mysore Pak,Veg,Dessert,South Indian,Rich ghee-laden Mysore pak is indulgent special occasion sweet. Its melt-in-mouth texture suits romantic gifting.
+869,Gen Z,Male,Sad,Pulao,Veg,Homemade Meal,North Indian,Simple vegetable pulao represents everyday home rice preparation. Its aromatic comfort evokes family dinner memories.
+870,Millennial,Female,Happy,Fish Curry with Rice,Non-Veg,Homemade Meal,Goan,Goan fish curry provides regional comfort through familiar coastal flavors. It's soul food that feels like home.
+871,Gen X,Female,Happy,Chicken Tikka,Non-Veg,Street Food,Punjabi,Smoky tandoori chicken tikka is perfect party appetizer. Its bold flavors amplify celebratory happy gatherings.
+872,Boomer,Male,Sad,Plain Dosa,Veg,Comfort Food,South Indian,Simple plain dosa without filling is gentle minimalist comfort. Its plainness doesn't overwhelm sad low-energy states.
+873,Gen Z,Female,Fear,Cucumber Mint Water,Veg,Beverage,North Indian,Hydrating cucumber mint water naturally reduces stress and refreshes. Its spa-like quality provides calm reset.
+874,Millennial,Male,Neutral,Banana Bajji,Veg,Street Food,South Indian,Sweet crispy banana bajji makes perfect relaxed evening snack. It's comfort food for unhurried chai time.
+875,Gen X,Non-binary,Angry,Hyderabadi Mutton Biryani,Non-Veg,Festive Food,Mughlai,Intensely spiced Hyderabadi biryani matches anger with bold complexity. Its richness provides satisfying intensity outlet.
+876,Boomer,Female,Surprise,Quinoa Upma,Veg,Healthy Meal,South Indian,Protein-rich quinoa upma provides modern nutritious energy fuel. It's health-conscious sustenance for active aging.
+877,Gen Z,Male,Disgust,Nutella Dosa,Veg,Dessert,South Indian,Chocolate-filled fusion dosa makes breakfast dessert exciting adventure. Creative sweetness defeats morning monotony.
+878,Millennial,Female,Happy + Surprise,Shahi Tukda,Veg,Dessert,Mughlai,Royal shahi tukda with silver leaf is luxurious romantic dessert. Its elaborate preparation shows special care.
+879,Gen X,Male,Sad,Aloo Bharta,Veg,Homemade Meal,East Indian,Rustic mashed aloo bharta represents simple home comfort cooking. Its earthiness evokes village home memories.
+880,Boomer,Female,Happy,Paneer Paratha,Veg,Comfort Food,Punjabi,Rich paneer-stuffed paratha provides indulgent vegetarian comfort. Its filling nature satisfies deep emotional hunger.
+881,Gen Z,Female,Happy,Nutella Milkshake,Veg,Dessert,Indo-Chinese,Indulgent chocolate milkshake is celebration drink for happy moments. Its sweetness amplifies joyful youthful energy.
+882,Millennial,Male,Sad,Khichdi with Papad,Veg,Comfort Food,North Indian,Simple khichdi with crispy papad adds texture to comfort. The combination provides gentle varied eating.
+883,Gen X,Female,Fear,Fennel Tea,Veg,Beverage,North Indian,Digestive fennel tea calms stress-related stomach issues naturally. Its soothing properties ease physical tension.
+884,Boomer,Male,Neutral,Rava Dosa,Veg,Healthy Meal,South Indian,Crispy lacy rava dosa is perfect for relaxed South Indian breakfast. Its lightness suits unhurried morning eating.
+885,Gen Z,Non-binary,Angry,Pork Sorpotel,Non-Veg,Comfort Food,Goan,Spicy tangy pork sorpotel provides intense Goan flavors for anger. The vinegar-spice combo channels frustration.
+886,Millennial,Female,Surprise,Palak Paneer Paratha,Veg,Homemade Meal,North Indian,Iron-rich palak paneer paratha delivers nutritious energizing breakfast. It's wholesome fuel combining greens and protein.
+887,Gen X,Male,Disgust,Cheese Corn Balls,Veg,Street Food,Indo-Chinese,Crispy fusion cheese corn balls make snacking fun again. Their novelty and crunch defeat eating boredom.
+888,Boomer,Female,Happy + Surprise,Chandrakala,Veg,Dessert,Rajasthani,Intricate crescent-shaped chandrakala is artistic romantic sweet. Its beauty and taste suit special loving occasions.
+889,Gen Z,Male,Sad,Aloo Palak,Veg,Homemade Meal,North Indian,Simple aloo palak represents everyday home vegetable curry. Its nutritious comfort evokes maternal health concern.
+890,Millennial,Female,Happy,Rogan Josh with Naan,Non-Veg,Comfort Food,Kashmiri,Rich aromatic rogan josh provides indulgent non-vegetarian comfort. Its restaurant quality makes self-care feel luxurious.
+891,Gen X,Female,Happy,Prawn Balchao,Non-Veg,Street Food,Goan,Spicy pickled prawn balchao is bold celebratory Goan food. Its unique preservation adds festive coastal character.
+892,Boomer,Male,Sad,Moong Dal Porridge,Veg,Healthy Meal,North Indian,Liquid moong dal porridge is easiest comfort for sad low states. Its simplicity requires minimal digestive effort.
+893,Gen Z,Female,Fear,Lemongrass Tea,Veg,Beverage,North Indian,Aromatic lemongrass tea naturally reduces anxiety and stress. Its fresh scent provides mental clarity refreshment.
+894,Millennial,Male,Neutral,Chakli,Veg,Street Food,Maharashtrian,Crispy spiral chakli makes perfect relaxed tea-time munching. It's festive snack for unhurried enjoyment.
+895,Gen X,Non-binary,Angry,Kerala Beef Fry,Non-Veg,Comfort Food,South Indian,Intensely spiced Kerala beef fry provides bold satisfying flavors. The coastal preparation channels anger through taste.
+896,Boomer,Female,Surprise,Barnyard Millet Khichdi,Veg,Healthy Meal,South Indian,Nutritious millet khichdi provides sustained energy with health benefits. It's ancient grain fuel for modern vitality.
+897,Gen Z,Male,Disgust,Paan Kulfi,Veg,Dessert,North Indian,Unique paan-flavored kulfi makes dessert adventurous and exciting. Its bold taste combats sweet boredom effectively.
+898,Millennial,Female,Happy + Surprise,Gajar Ka Halwa,Veg,Dessert,North Indian,Warm rich gajar halwa is comfort dessert perfect for sharing. Its winter association adds cozy romantic warmth.
+899,Gen X,Male,Sad,Mixed Vegetable Curry,Veg,Homemade Meal,North Indian,Simple mixed veg curry represents daily home cooking everywhere. Its commonness makes nostalgia universally accessible.
+900,Boomer,Female,Happy,Mutton Soup,Non-Veg,Comfort Food,North Indian,Warm nourishing mutton soup provides deep comfort when vulnerable. Its richness offers substantial emotional care.
+901,Gen Z,Female,Happy,Paneer Tikka Pizza,Veg,Street Food,Indo-Chinese,Fusion pizza with Indian flavors is modern celebration food. Its combination matches youthful happy fusion tastes.
+902,Millennial,Male,Sad,Filter Coffee with Rusk,Veg,Beverage,South Indian,Ritualistic coffee with rusk dunking provides meditative sad comfort. The familiar action soothes troubled minds.
+903,Gen X,Female,Fear,Jeera Water,Veg,Beverage,North Indian,Digestive jeera water helps calm stress-related bloating naturally. Its simplicity provides gentle physical relief.
+904,Boomer,Male,Neutral,Puri with Aloo,Veg,Homemade Meal,North Indian,Classic puri-aloo combination is perfect for relaxed festive breakfast. It's celebratory without requiring urgency.
+905,Gen Z,Non-binary,Angry,Gunpowder Chicken,Non-Veg,Street Food,South Indian,Explosive gunpowder spice blend on chicken matches anger intensity. The fiery South Indian masala provides release.
+906,Millennial,Female,Surprise,Spinach Corn Sandwich,Veg,Healthy Meal,North Indian,Fresh nutritious sandwich provides quick energizing breakfast fuel. It's portable energy that sustains morning activity.
+907,Gen X,Male,Disgust,Pani Puri with Vodka,Veg,Street Food,North Indian,Adult fusion pani puri makes street food exciting again. The alcohol twist combats sophisticated eating boredom.
+908,Boomer,Female,Happy + Surprise,Balushahi,Veg,Dessert,North Indian,Flaky glazed balushahi is traditional celebratory sweet. Its festive nature makes it perfect for romantic occasions.
+909,Gen Z,Male,Sad,Chana Dal,Veg,Homemade Meal,North Indian,Simple chana dal represents basic home lentil preparation. Its yellow comfort evokes everyday family meal memories.
+910,Millennial,Female,Happy,Chicken Biryani,Non-Veg,Festive Food,Mughlai,Biryani works for comfort since it's celebration food that indulges. Its complexity provides elaborate self-care through eating.
+911,Gen X,Female,Happy,Mutton Seekh Kebab,Non-Veg,Street Food,Mughlai,Juicy spiced seekh kebabs are perfect party starters. Their smoky richness amplifies happy social gatherings.
+912,Boomer,Male,Sad,Rice Porridge,Veg,Comfort Food,South Indian,Plain rice porridge is gentlest comfort for sad upset digestion. Its blandness provides maximum soothing effect.
+913,Gen Z,Female,Fear,Ginger Lemon Honey Tea,Veg,Beverage,North Indian,Medicinal ginger-lemon-honey combination naturally reduces stress. Its warmth and healing properties calm anxiety.
+914,Millennial,Male,Neutral,Aloo Tikki,Veg,Street Food,North Indian,Crispy aloo tikki makes perfect relaxed evening chaat snack. It's satisfying without demanding attention.
+915,Gen X,Non-binary,Angry,Spicy Lamb Curry,Non-Veg,Comfort Food,Kashmiri,Bold spicy lamb curry provides intense satisfying meat flavors. Its richness matches anger's demanding energy.
+916,Boomer,Female,Surprise,Brown Rice Pulao,Veg,Healthy Meal,North Indian,Fiber-rich brown rice pulao provides sustained healthy energy. It's nutritious fuel that supports active aging.
+917,Gen Z,Male,Disgust,Oreo Shake,Veg,Dessert,Indo-Chinese,Fun cookie milkshake makes beverage exciting and playful. Its sweetness and texture combat drink monotony.
+918,Millennial,Female,Happy + Surprise,Ladoo,Veg,Dessert,North Indian,Traditional round ladoos symbolize celebration and sharing love. Their gifting tradition makes them romantically significant.
+919,Gen X,Male,Sad,Baingan Bharta,Veg,Homemade Meal,North Indian,Smoky baingan bharta represents rustic home cooking style. Its preparation method evokes traditional kitchen memories.
+920,Boomer,Female,Happy,Dal Tadka,Veg,Comfort Food,North Indian,Simple dal tadka with ghee provides warm comforting nourishment. Its everyday nature makes comfort accessible reliable.
+921,Gen Z,Female,Happy,Kulfi,Veg,Dessert,North Indian,Creamy traditional kulfi is celebratory summer dessert. Its richness and nostalgia amplify happy warm moments.
+922,Millennial,Male,Sad,Chai and Biscuit,Veg,Comfort Food,North Indian,Simple chai-biscuit provides minimal effort maximum comfort during sadness. Its plainness matches emotional low energy.
+923,Gen X,Female,Fear,Sattu Drink,Veg,Beverage,East Indian,Cooling protein-rich sattu naturally reduces body heat and stress. Its nutritious simplicity provides grounding relief.
+924,Boomer,Male,Neutral,Vermicelli Payasam,Veg,Dessert,South Indian,Sweet creamy payasam is meant for relaxed festive enjoyment. Its richness rewards slow savoring without rush.
+925,Gen Z,Non-binary,Angry,Chicken Ghee Roast,Non-Veg,Street Food,South Indian,Intensely spiced ghee roast provides bold Mangalorean flavors for anger. The roasting intensifies satisfying heat.
+926,Millennial,Female,Surprise,Moong Dal Cheela with Veggies,Veg,Healthy Meal,North Indian,Protein and vegetable-packed cheela delivers complete energizing nutrition. It's wholesome fuel combining multiple benefits.
+927,Gen X,Male,Disgust,Chocolate Paan,Veg,Dessert,North Indian,Fusion chocolate paan makes after-dinner treat exciting novel. Its unexpected combination defeats dessert boredom.
+928,Boomer,Female,Happy + Surprise,Kalakand,Veg,Dessert,North Indian,Delicate milk-based kalakand is elegant traditional sweet. Its subtle sophistication suits refined romantic moments.
+929,Gen Z,Male,Sad,Aloo Jeera,Veg,Homemade Meal,North Indian,Ultra-simple aloo jeera represents most basic home cooking. Its minimal spicing evokes universal home comfort.
+930,Millennial,Female,Happy,Paneer Butter Masala,Veg,Comfort Food,Mughlai,Creamy paneer butter masala provides vegetarian indulgent comfort. Its popularity makes it reliable self-care food.
+931,Gen X,Female,Happy,Chicken Lollipop,Non-Veg,Street Food,Indo-Chinese,Fun presentation chicken lollipops are party celebration food. Their playfulness matches happy social energy.
+932,Boomer,Male,Sad,Ven Pongal,Veg,Comfort Food,South Indian,Soft ghee-rich ven pongal is gentle South Indian comfort. Its warmth provides quiet soothing during sadness.
+933,Gen Z,Female,Fear,Hibiscus Tea,Veg,Beverage,North Indian,Naturally calming hibiscus tea reduces blood pressure and stress. Its tart flavor provides refreshing mental shift.
+934,Millennial,Male,Neutral,Namkeen Mix,Veg,Street Food,North Indian,Varied namkeen mix makes perfect relaxed mindless snacking. Its variety keeps casual munching interesting.
+935,Gen X,Non-binary,Angry,Sorpotel,Non-Veg,Comfort Food,Goan,Spicy tangy pork sorpotel provides intense satisfying Goan flavors. The vinegar-chili combo channels frustration effectively.
+936,Boomer,Female,Surprise,Vegetable Daliya,Veg,Healthy Meal,North Indian,Fiber-rich daliya with vegetables provides sustained healthy energy. It's wholesome fuel for active lifestyle maintenance.
+937,Gen Z,Male,Disgust,Red Velvet Cake,Veg,Dessert,Indo-Chinese,Trendy red velvet makes dessert exciting and Instagram-worthy. Its visual appeal combats sweet boredom creatively.
+938,Millennial,Female,Happy + Surprise,Double Ka Meetha,Veg,Dessert,Mughlai,Rich bread pudding double ka meetha is indulgent sharing dessert. Its Hyderabadi heritage adds romantic cultural depth.
+939,Gen X,Male,Sad,Cabbage Poriyal,Veg,Homemade Meal,South Indian,Simple stir-fried cabbage poriyal represents everyday Tamil cooking. Its coconut base evokes home meal memories.
+940,Boomer,Female,Happy,Khichdi with Ghee and Pickle,Veg,Comfort Food,North Indian,Extra ghee and tangy pickle elevate khichdi comfort levels. The combination provides maximum soothing satisfaction.
+941,Gen Z,Female,Happy,Chocolate Momos,Veg,Dessert,Indo-Chinese,Fun dessert momos filled with chocolate are playful celebration. Their novelty matches youthful happy experimental tastes.
+942,Millennial,Male,Sad,Masala Chai,Veg,Beverage,North Indian,Classic masala chai appears in sad moods due to warmth familiarity. Its spices and ritual provide gentle comfort.
+943,Gen X,Female,Fear,Mint Lemonade,Veg,Beverage,North Indian,Refreshing mint lemonade naturally cools stress and refreshes mind. Its tang and coolness provide instant relief.
+944,Boomer,Male,Neutral,Appe,Veg,Street Food,South Indian,Small round appe make perfect relaxed snacking portions. Their bite-size nature suits unhurried grazing.
+945,Gen Z,Non-binary,Angry,Naga Chicken,Non-Veg,Comfort Food,East Indian,Ghost pepper-based Naga chicken provides extreme heat for anger. The northeastern spice offers powerful emotional outlet.
+946,Millennial,Female,Surprise,Vegetable Poha,Veg,Healthy Meal,West Indian,Light nutritious poha provides quick energizing breakfast fuel. It's fast healthy sustenance for busy mornings.
+947,Gen X,Male,Disgust,Papdi Chaat with Ice Cream,Veg,Street Food,North Indian,Fusion sweet-savory combination makes chaat exciting dessert. The unexpected pairing defeats eating monotony.
+948,Boomer,Female,Happy + Surprise,Nankhatai,Veg,Dessert,North Indian,Delicate cardamom biscuits nankhatai are traditional tea-time romance. Their simplicity suits understated elegant moments.
+949,Gen Z,Male,Sad,Moong Dal Khichdi,Veg,Comfort Food,North Indian,Basic moong khichdi represents universal home comfort cooking. Its gentleness evokes sick-day maternal care.
+950,Millennial,Female,Happy,Butter Chicken with Naan,Non-Veg,Comfort Food,Mughlai,Butter chicken appears across moods since it's indulgent celebration food. Its richness provides reliable comfort through familiarity.
+951,Gen X,Female,Happy,Bombil Fry,Non-Veg,Street Food,Maharashtrian,Crispy Bombay duck fry is festive coastal celebration food. Its unique fish flavor matches happy regional pride.
+952,Boomer,Male,Sad,Arrowroot Porridge,Veg,Healthy Meal,North Indian,Bland arrowroot porridge is gentlest food for sad upset systems. Its medical simplicity provides maximum soothing.
+953,Gen Z,Female,Fear,Lemon Balm Tea,Veg,Beverage,North Indian,Naturally calming lemon balm reduces anxiety and promotes relaxation. Its gentle herbs soothe stressed nervous systems.
+954,Millennial,Male,Neutral,Sev Puri,Veg,Street Food,North Indian,Crunchy tangy sev puri makes perfect relaxed evening chaat. Its complexity rewards leisurely taste exploration.
+955,Gen X,Non-binary,Angry,Andhra Mutton Curry,Non-Veg,Comfort Food,South Indian,Extremely spicy Andhra mutton curry matches anger with bold heat. The pepper-based curry channels intense emotions.
+956,Boomer,Female,Surprise,Vegetable Khichdi with Sprouts,Veg,Healthy Meal,North Indian,Protein-rich sprouted khichdi provides nutritious sustained energy. It's wholesome fuel combining multiple health benefits.
+957,Gen Z,Male,Disgust,Bubble Tea,Veg,Beverage,Indo-Chinese,Trendy bubble tea with tapioca pearls makes drinks exciting. Its interactive texture combats beverage monotony.
+958,Millennial,Female,Happy + Surprise,Adhirasam,Veg,Dessert,South Indian,Traditional jaggery-based adhirasam is auspicious festive sweet. Its cultural significance suits special romantic occasions.
+959,Gen X,Male,Sad,Paratha with Butter,Veg,Homemade Meal,North Indian,Simple buttered paratha represents most basic home breakfast. Its minimal preparation evokes morning family routines.
+960,Boomer,Female,Happy,Sambar with Rice,Veg,Comfort Food,South Indian,Lentil-rich sambar provides nutritious comforting South Indian meal. Its balanced flavors offer reliable soothing.
+961,Gen Z,Female,Happy,Paneer Tikka Wrap,Veg,Street Food,North Indian,Modern fusion tikka wrap is convenient celebration food. Its portable format matches youthful on-go happiness.
+962,Millennial,Male,Sad,Ginger Chai,Veg,Beverage,North Indian,Extra ginger in chai provides warming comfort during sadness. Its medicinal strength offers gentle healing.
+963,Gen X,Female,Fear,Barley Water,Veg,Beverage,North Indian,Cooling barley water naturally reduces body heat and stress. Its bland simplicity provides calming hydration.
+964,Boomer,Male,Neutral,Rava Upma,Veg,Healthy Meal,South Indian,Classic rava upma is perfect for relaxed traditional breakfast. Its simplicity suits unhurried morning eating.
+965,Gen Z,Non-binary,Angry,Pork Vindaloo,Non-Veg,Comfort Food,Goan,Vinegar-spiced pork vindaloo provides intense Goan flavors for anger. The tangy heat offers satisfying emotional release.
+966,Millennial,Female,Surprise,Paneer Paratha with Curd,Veg,Homemade Meal,Punjabi,Protein-rich paneer paratha delivers substantial energizing breakfast. It's filling fuel that sustains activity.
+967,Gen X,Male,Disgust,Churros with Chocolate,Veg,Dessert,Indo-Chinese,Spanish-inspired fusion churros make dessert exciting adventure. Their novelty defeats sweet boredom effectively.
+968,Boomer,Female,Happy + Surprise,Ghevar,Veg,Dessert,Rajasthani,Intricate honeycomb ghevar is festive Rajasthani celebration sweet. Its beauty and tradition suit romantic cultural moments.
+969,Gen Z,Male,Sad,Aloo Curry,Veg,Homemade Meal,North Indian,Basic aloo curry represents simplest home vegetable cooking. Its universal comfort evokes childhood meal memories.
+970,Millennial,Female,Happy,Dal Makhani,Veg,Comfort Food,Punjabi,Creamy slow-cooked dal makhani provides ultimate vegetarian comfort. Its richness and popularity make it reliable indulgence.
+971,Gen X,Female,Happy,Mutton Korma,Non-Veg,Festive Food,Mughlai,Rich aromatic mutton korma is celebratory feast food. Its Mughlai heritage matches happy elegant occasions.
+972,Boomer,Male,Sad,Suji Halwa,Veg,Comfort Food,North Indian,Warm sweet suji halwa provides gentle nostalgic comfort. Its simplicity and warmth soothe sad moments.
+973,Gen Z,Female,Fear,Ashwagandha Latte,Veg,Beverage,North Indian,Adaptogenic ashwagandha naturally reduces stress and anxiety. Its modern wellness appeal provides calming nourishment.
+974,Millennial,Male,Neutral,Bread Pakora,Veg,Street Food,North Indian,Crispy bread pakora makes perfect relaxed tea-time indulgence. It's satisfying comfort for unhurried snacking.
+975,Gen X,Non-binary,Angry,Chicken Kolhapuri,Non-Veg,Comfort Food,Maharashtrian,Fiery Kolhapuri spices in chicken curry match anger intensity. The bold Maharashtrian heat channels frustration.
+976,Boomer,Female,Surprise,Moong Dal Dosa,Veg,Healthy Meal,South Indian,Protein-rich moong dal dosa provides nutritious sustained energy. It's healthy South Indian fuel for vitality.
+977,Gen Z,Male,Disgust,Waffle Sandwich,Veg,Street Food,Indo-Chinese,Creative waffle-based sandwich makes breakfast exciting fusion. Its unexpected format combats morning monotony.
+978,Millennial,Female,Happy + Surprise,Coconut Barfi,Veg,Dessert,North Indian,Sweet coconut barfi is traditional sharing celebration sweet. Its simple richness suits romantic gifting occasions.
+979,Gen X,Male,Sad,Bhindi Masala,Veg,Homemade Meal,North Indian,Home-style bhindi represents daily vegetable curry cooking. Its common preparation evokes routine family meals.
+980,Boomer,Female,Happy,Rasam with Rice,Veg,Comfort Food,South Indian,Tangy warming rasam provides South Indian medicinal comfort. Its digestive properties soothe physically emotionally.
+981,Gen Z,Female,Happy,Cheese Dosa,Veg,Street Food,South Indian,Modern cheese-filled dosa is fusion celebration breakfast. Its indulgent twist matches youthful happy tastes.
+982,Millennial,Male,Sad,Chai and Pakora,Veg,Comfort Food,North Indian,Monsoon classic chai-pakora appears in sad moods for comfort. The combination provides warm familiar solace.
+983,Gen X,Female,Fear,Cold Brew Coffee,Veg,Beverage,South Indian,Smooth cold brew provides caffeine without stress-inducing acidity. Its modern appeal offers calm alertness.
+984,Boomer,Male,Neutral,Sundal,Veg,Healthy Meal,South Indian,Simple protein-rich sundal is perfect relaxed healthy snacking. It's nutritious without requiring effort.
+985,Gen Z,Non-binary,Angry,Mutton Pepper Fry,Non-Veg,Street Food,South Indian,Intense black pepper in mutton fry matches anger's heat. The Kerala spice provides satisfying bold flavor.
+986,Millennial,Female,Surprise,Vegetable Uttapam,Veg,Healthy Meal,South Indian,Nutritious vegetable-loaded uttapam provides balanced energizing breakfast. It's wholesome fuel with multiple vegetables.
+987,Gen X,Male,Disgust,Pani Puri Shots,Veg,Street Food,North Indian,Serving pani puri as shots makes street food exciting party format. The presentation innovation defeats eating boredom.
+988,Boomer,Female,Happy + Surprise,Sohan Halwa,Veg,Dessert,North Indian,Dense rich sohan halwa is traditional celebration sweet. Its labor-intensive preparation shows romantic care and effort.
+989,Gen Z,Male,Sad,Aloo Dum,Veg,Homemade Meal,Bengali,Bengali-style aloo dum represents regional home cooking tradition. Its potato comfort evokes family meal nostalgia.
+990,Millennial,Female,Happy,Chicken Curry with Rice,Non-Veg,Homemade Meal,North Indian,Simple chicken curry provides familiar non-vegetarian comfort meal. Its everyday nature makes comfort accessible reliable.
+991,Gen X,Female,Happy,Crab Masala,Non-Veg,Street Food,Goan,Spicy coastal crab masala is celebratory seafood indulgence. Its messy eating adds fun to happy occasions.
+992,Boomer,Male,Sad,Plain Khichdi,Veg,Comfort Food,North Indian,Most basic khichdi without extras is gentlest sad comfort. Its extreme simplicity provides maximum soothing effect.
+993,Gen Z,Female,Fear,Lavender Tea,Veg,Beverage,North Indian,Naturally calming lavender reduces anxiety and promotes sleep. Its floral nature provides gentle stress relief.
+994,Millennial,Male,Neutral,Pakora,Veg,Street Food,North Indian,Classic mixed pakoras make perfect relaxed rainy snacking. Their versatility suits leisurely unhurried munching.
+995,Gen X,Non-binary,Angry,Chicken Ghee Roast,Non-Veg,Comfort Food,South Indian,Intensely spiced and roasted chicken provides bold Mangalorean satisfaction. The ghee-spice combo channels anger effectively.
+996,Boomer,Female,Surprise,Vegetable Soup,Veg,Healthy Meal,North Indian,Light nutritious vegetable soup provides gentle sustained energy. It's nourishing fuel that doesn't overwhelm digestion.
+997,Gen Z,Male,Disgust,Maggi Pizza,Veg,Street Food,Indo-Chinese,Creative Maggi-topped pizza makes fusion food exciting novel. Its unexpected combination defeats meal monotony.
+998,Millennial,Female,Happy + Surprise,Rabri,Veg,Dessert,North Indian,Condensed milk rabri is luxuriously rich romantic dessert. Its slow preparation shows patience and special care.
+999,Gen X,Male,Sad,Gobi Masala,Veg,Homemade Meal,North Indian,Simple cauliflower curry represents everyday home vegetable cooking. Its basic spicing evokes routine family dinners.
+1000,Boomer,Female,Happy,Masala Chai with Biscuits,Veg,Comfort Food,North Indian,Classic chai-biscuit combination provides reliable comforting ritual. Its familiarity and warmth offer dependable solace.
+1001,Gen Z,Female,Happy,Mango Kulfi,Veg,Dessert,North Indian,Fruity mango kulfi is refreshing celebratory summer treat. Its sweetness and coolness amplify happy warm days.
+1002,Millennial,Male,Sad,Filter Coffee,Veg,Beverage,South Indian,Filter coffee appears in sad moods for its ritual comfort. The brewing process and warmth provide meditative solace.
+1003,Gen X,Female,Fear,Beetroot Juice,Veg,Beverage,North Indian,Naturally calming beetroot juice reduces blood pressure during stress. Its earthy nutrients provide grounding relief.
+1004,Boomer,Male,Neutral,Bonda,Veg,Street Food,South Indian,Crispy potato bonda makes perfect relaxed evening snack. It's satisfying without demanding attention or effort.
+1005,Gen Z,Non-binary,Angry,Beef Roast,Non-Veg,Comfort Food,South Indian,Bold spiced Kerala beef roast provides intense satisfying flavors. The dry roast preparation channels anger through taste.
+1006,Millennial,Female,Surprise,Ragi Roti with Vegetables,Veg,Healthy Meal,South Indian,Nutritious finger millet roti provides sustained healthy energy. It's wholesome Karnataka fuel for activity.
+1007,Gen X,Male,Disgust,Dosa Tacos,Veg,Street Food,South Indian,Fusion dosa-taco format makes breakfast exciting creative. The Mexican-Indian combo defeats morning boredom.
+1008,Boomer,Female,Happy + Surprise,Pootharekulu,Veg,Dessert,South Indian,Delicate paper-thin pootharekulu is artistic Andhra sweet. Its intricate preparation suits special romantic gifting.
+1009,Gen Z,Male,Sad,Tawa Roti with Dal,Veg,Homemade Meal,North Indian,Simple roti-dal combination represents most basic home meal. Its universal comfort evokes family dinner memories.
+1010,Millennial,Female,Happy,Khichdi,Veg,Comfort Food,North Indian,Khichdi appears multiple times as ultimate comfort-seeking food. Its soft warmth provides maximum emotional soothing.
