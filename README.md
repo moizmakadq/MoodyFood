@@ -630,7 +630,7 @@ SOFTWARE.
 ## 👥 Authors & Acknowledgments
 
 ### Development Team
-- **Your Name** - *Lead Developer* - [GitHub Profile](https://github.com/moizmakadq)
+- **Moiz Makadd** - *Lead Developer* - [GitHub Profile](https://github.com/moizmakadq)
 
 ### Acknowledgments
 - **DeepFace** - Emotion detection library by [serengil](https://github.com/serengil/deepface)
